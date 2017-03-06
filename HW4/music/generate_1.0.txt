@@ -1,0 +1,367 @@
+n Chrnto" mablan
+T:Kegfan Thi fi mas-t? la liot Bcuteou de las (??par un pe-pi?|
+ff d>e|fe- cB | cA E4- | D4:|
+V:2
+d2dc d2dc|
+cBcd e2g2 |
+g2af | e2A2 d4 | d6 :|2GG cB ||
+<end>
+<start>
+X:192
+T:Maysan Cernes dette Alence
+c/2/c/ BA | B2 G4 | A2 AG |
+A2 FE D2FG |
+F,EB, EDGBG :|2 ~G3 dBG EFA :|2 bc gfgb | e2d d2B | B3 GBG:|2 AG FA|"F"Ad g2||
+<end>
+<start>
+X:48
+T:Cacgar
+T:Li toppos
+D:Des dal Body, Pith gath mon ~a3 an (D3an- note of doise taflso played with Ceatod and ted ain Roth
+K:F
+G2AB|A=fA A2BA|AGFF E2~G2|cBAD GABA|(A2^cd (3Bcd ec^d2 (3c'A DaA||
+|:~g3 dBA c2c|
+BGB BAG fdd|gaa gfe|1 def e2c | dAG BAG ||
+<end>
+<start>
+X:45
+T:Gir Gul
+Z:id:hn-jig-79
+M:6/8
+K:G
+G2B A2B|A2d e>e|d2 d/c/|\
+g/d/e/ d/e/ | Fz/2/G/ "C"Em e2 |
+"D"A3 F/f/ | f2 z/2/2B/2 E2|
+N:| =B2d2 | B4 |]
+<end>
+<start>
+X:13
+Thnpeif
+Z:Transcrit et/oc cA|G/B/c/B/ A2:|
+|:Be|\
+"G"A2A|"G"F7"FzA]|
+G[GF]G2d2^F|G3|CE/F/B/ "Dm"B>d c/B/d/2|(3Bcd B ccA2|
+A2cB Acee|1 ^F4 (3Bcd|A2G2A2B2B|c2B2|B2A2|G4E4|
+G2G2A2G2|G2G2D2|
+FG|A^cAG GED:|
+<egfe|dB~B2 efdc | ~!breath! d6 | {cf}d2G AdB | A6 :|
+P:variatiens
+C:Provench
+|: ea gfd ecA || BdB gfe | dB~B2 bgaf | alabstrink: badf afd | g2f feg | ba~g2 agfd|(3ABA G6 (3edc|ddd^cB ABd|cee daf|~f3 def|g2e fef|c2A G2G|ABB A2D|~D3 A3:|
+<end>
+<start>
+X:134
+T:La tong reel_e Mous de Doume t ply
+Z:id:hn-hf-70
+M:C|
+K:d
+gfe g2B | a3e d2ga | b2g bag | ggf fed gfd:|2 ABd aff:|2 G,D:|2 EFE :|
+|:dc|dA fA|dc Bc|d>e BB|B/B/A/B/ B3|c/B/c/B/ b/a/b/e/|ce fe|
+dc Bc/d/ | (ceag | a2ge |
+e2ag efge|
+fedc BAgc|dBcF B2cBd|
+dBE^FG AABc|1 BA=BA B2:|
+<end>
+<start>
+X:25
+T:Cackan an the fedcefladc
+S:Tonembminah O'Carome, The
+R:Bra?le dou- Th M2Ed orission mailto:ga-16
+M:3/8u e'variation Reations or Eightlle, The
+R:polke
+C:Martide Muvie faf | agf |
+a2f fed |
+^c2d ecB | fcB cAc |1 Bee dcB |:
+P:Dramen chetes Pot-dan mpi-fa dipart-mascrigautan caillangh Tibmar bar felley Liow the sitch
+D:Drins dons, in AnwctMith Mlaye the Hill & Tony My to Gla-dhu ne Took
+O:Frande
+Z:Transcrit et/ou corrig? par's Tunetz
+S:C
+CCC CA, D,,2E,,2C,4-02
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-25
+Z:Pour toute? af fe | g2 gf =Bfg | d2 | df2ge | d2e2d2 | d2e2 f2e2 | cdd>e | f2ffg e2B>c | B>f c>A | B4 | B2G2 |
+GAB | B2d e2e |
+f3 fdf |=c c2d | =fef fef | f6 | cAG FGA FED :|2 GED E3|~F3 GED|FaA Bef|g e geg f2g | fed BAG ||
+<end>
+<start>
+X:38
+T:ycesire Gimix la fies as.
+D:Dad gafg |
+aea g2e d2B |1 g2ed Bcdc | B2B3cd ^FGB |
+deff gfeg | bgbg ege d2A | 
+~G3 BAG | D2D EDF :|2 cde ded |
+A/A/G/A/ AG|G/A>F A>BA|G2A | B3!F.d.c2 | =B3/2F2!B2c2 | G4 :|
+V:2
+Graft
+dge eA|ABG ABd ege||
+~a3 a2a | gfe dcB | A3c A2de | fedc cBAB | dBAG B2GA | d2ag:B d Bde |
+w:1 "=eed|BAG GBd|ged def|g2b a2a|fec ABc|a2b a2a|g2a g2a b2g|g2g g2e|f3 egd|e2f g2g|1 ABc dcA:|
+|:~A3 cAG|DEF G3:|
+P:B
+L:1/8
+K:G
+d3 B3| B2z2 | "G"c2d |"G"d3 f2e||
+P:Versid
+T:La gistaen
+Z:id:hn-hornparge,
+G,2,,2G,,2G,2^G,2|G,,2A,2G,,2|G,G,D,D,,2|G,2B,>G, FG,2G,,2|
+<end>
+<start>
+X:Va:ina Bboute
+W:Alide St Morden fof Haf hing the le touc deg BAnt mass in che jo? Babre m'eriof dower ains wa kimon mail placde  oes afd hain Bullistydu.cen the Michie Banckay: The Fayan Go Le Dne tu ia sempole, The
+P:Intro] d2 "C"GBA | G2- | =B2G2 | F4E | FABc |
+d2f>dde | =ded/c) |]
+<end>
+<start>
+X:71
+T:Shnier Marce
+C:Trad.
+Z:Transcrit et/ou corrick Morney & Keroney Clockin hrime Hewifou1 Ber Seattans e?verail o
+Z:id:hn-sot 
+Z:Transcrit et/ou cook?gn ariev's
+R:set (.Mixt/e/ =F3A | B>A Bd | cB/c/ B2 | Gf cc | ce/d/ c/G/A/c/|G/F/G/A/ | ce/d/ | e/d/e/f/ ""c"A2 "Am"F2f|"Gm"G2z|"G"G"Gz |]
+[P:Rerej
+gfe dde||
+|:ea~a2 gfeg|fbe  deag|
+~f3d eAcB|c2A2 G2|FAD=C ED|AF GF GBd2||
+|:fede fdd^c d2|e2 fe e4|e3/2=e/2c/2] A2 ||
+G2 G>A AB |]
+V:2
+L:1/8
+Q:1/4=120
+K:Fmaj
+G|E>F G>A | _Ae/c/B/ c/B/c/d/ | gd/d/ c3c | b>g b/e/f/e/ dcB^c|Acdf fd~d2|defd c2zf||
+g/2e/2dB/c/|d^c dB|cA Bc|1 B3 dB2:|
+B2AB cdBc | eedB d2de | ffaf g2ba|g4d2g2f2|e2^c4|]
+<end>
+<start>
+X:116
+T:Lirighl in EG,Also Sees de Tander Noss woume des ofed the Pett2e carael to Shoing
+R:Branle des Aave@1
+C2e d2d||
+<end>
+<start>
+X:4
+T:Le paril.
+Z:id:hn-jig-71
+M:6/8
+K:G
+A2A dBA|D2D BAG GFG|ABG ABd|efg faf|gab eag|dBA BGE|~G3 G2B|fdc Bcd:|
+<end>
+<start>
+X:998
+T:Marthe Prgdoi ered beatain
+Z:id:hn-slide =e2e e/e/ | cB Ad | c2) |
+(BA)G | cBc .c/d)(d/d/c/B/c/) ((c/d/) e/A/c/ | d/2/2/2A/2A/2 G2A2|d2c2 AB3|d3/2c/2A3/2B/2 N b/2a/2 bg|"E"F7"de"G"dd | "G7"G3G3|"D"f2e "gfe|"dfe lde/2f/2 e2d2:|
+V:3
+"G"cde|"Gm"g.G | "G"Bz cB |
+B2 E2 A2 | F4- | Az z2 | 
+P:Gins Figal
+Z:id:hn-airn-to:
+M:6/8
+L:1/8
+K:D
+c2d | cec | A=B BAB |
+GBc ABc c2e | ffd efe | dg/ f2:|
+<end>
+<start>
+X:28
+T:Micuer
+M:C|
+K:G
+(36/8|
+<end>
+<start>
+X:31. D Stinclde
+R:polka
+Z:id:hn-serela H?lledche 1 1
+M:6/8
+K:Em
+|: c/2B/2^F2 | G4 :2
+H:Trancto du Down ber" Breh p?
+R:Barndan (Emon
+S:aatchelky, The
+T:Gime Bornse
+Z:Transcrie emy Cattey
+R:hornet | GB d2 | c2A A2B | c2A G2A |
+cBc e2f | c2A A2A |1 G6 :|
+<end>
+<start>
+X:1
+T:The Carcherigia
+R:Paur MeAr Michel BELLON - 2007-04-24
+Z:Pour toute ocsid dand pas Tomm ddhie din Bess 6 .b.ur
+D:France to  hint nasche "Mezurk 
+D:Ma Lig "OfAdB aiava
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-067"G2ggeg4|"G"d^A (3Bcd|"G"Ad/2B/2 "G "Bm"F>E E/E/ DE|BG D2|FD Ed|gf eg/2|c2 B/4=920
+"G7"E2E2A3:|
+<end>
+<start>
+X:1
+T:Dair du Neella
+Z:Transcrit et/ou corri?c ea erche
+C:Pather the Suiter ongh an chel bock
+T:High with ming Hnophermpaid Golkaso site ofatte 
+w:Al: Spap Ento vomp ofmquedoe Ga Doneeri version 2f4
+|: a2g | c2zz :|
+P:Variations:
+"Am"E2 "G"G2G |
+"C"D"d c/B/E/E/ |
+e2 de | 06- A3/GF/G|BA EF|GF GA|F2G|AcA GAB|cde gfe|1 da/2/e/ fb an :
+P:1
+cBA cBc|1 GAAB ABcd|(3def gfef (3abc a2ge|f2af ~e3f|gee def|
+e2ec d2ce||
+d(a2ge (3dde d2 | egag fgaf | g2eB gdBA | c2cB cded | cA_Bc | B4B2 | B2^GB | cA dcBA | G2 B2 dG | A2 DB AF :|
+|: BcB BBE eB|BGB BAB|~f3 ~d3|c2a a2e| fag dBG | ~F3 FFA |
+FAc AFD | ~G3 AFA |1 ~D3 E4D | B2G BAB d2g :|2 G3 d2c||
+
+A2Bc d4 |
+G2b2 a2a |
+d2f f3 | cde d2c ||
+P:variatarnsl
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-06
+Z:Pod Faf|def def|(3cAF ED|DFAB ~A3G|1 AGAG ABG
+| AGEF Edfe|dfB(f/f/ gz ||
+T:2nder the Rindeder.
+Z:id:hn-slide-14
+M:2/4
+L:1/8
+K:C
+c2 d2 |
+ed ed | B/A/G/A/ ||
+<end>
+<start>
+X:24
+T:Rocka set dew ting baische see devie
+K:C
+g2d e2d|e2A A2A|BcA B2c d2A | D2D DFA | ~A3 AFA|
+FDD DFA|cBc agf|g3a gbab|aba gfe|fee aaf|1 gec e2f:|2 G3E GFGF|2DFE E2F2|G2E2 GBdB|agab Bbaa|
+|:fedB (3Bcd eA ABcd|1 de (3fgf efec|dcAG FDC2:|
+|:G3ABd | A2G2A2A2 |
+B6 | c_ABG2 | ABcd | cABA | c2G2 ::
+V:4
+cA A>c|AG AG/(G/A/G/A/ F/D/ |
+EF F>D | E2G FED:|
+|:dave fge dBA:|
+<end>
+<start>
+X:22
+T:Whise
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-06-11
+M:6/8
+K:G
+D2A ABA||
+P:variations
+C:Pareeaf erc|b"D"D7"Dm"d2d c"Am"G2"Bb"dc|BA"c27"G"d2f|"G"dcBG ED|:"[K:Eb] f/2a/f/^f/ e/d/e/f/ =ef) | e2 e2 :|
+P:Var atchel BELLON - 2005-03-06 ge ance tane boiro player in the in che the tu Kertw: Ptulle Hecden Rambaer, The
+T:Catehy: The Riblie
+R:artse la VVatel]
+T:<end>
+<start>
+X:83
+T:Stadc c2dB|
+G2B2AFAG|BedB BABc|1 ~A2A FED||
+|:B2e gfe|dee dBc:|
+|:efd dcd | eec dBG :|2 DED G2e:|2 Bcd e2f gfg:|2 ~a3 a2a gef g3 :|
+|: dae fde | Acd edc | dcB A2B | g3 |
+dfd def | e2d B2e | c'A A2 :|
+|: 
+B2e dcB | c3 c2B ||
+d3 A2f ||pe/d/ag|fec B2c|1 AGA ABA | cBc cAA d2f||
+P:Varictine Iof boube
+Q:1/8=120
+K:Bb
+V:E
+F2F EBc d2:|2 eAA aAG| AGA | D3 ^FDG Gcdf | a2gg e2ce |
+(gea)|bagf eAcB|AAGE ~D3A:|
+|:(3Bdg geae||
+agan'2 e'^fged | dga g2e :|2 Adc cBA | =Bcd cAG |1 gdcA DAd|cef gce|~d3 ged | ede |
+fgd e=fc|Bde dBG|ABc dBA|~B2d gge | d2=B,C
+| DGBA G4F|GFDE DFAF|D2AG ABG=c|A4A4 :|
+P:Versio
+O:France
+D:Jucker's wind the mong of Po cho myedh Seat  Townondu-te pas coripin
+T:Monkiet And are Whiske-8
+T:Margh's Rndel, The
+T:Bbol
+E2EF E2ED:|2 AGGE G2GA:|2 DE DE|E2dc (3BAG GABA|
+ABcA B2df|cded c4|d2B2A2A2B2|1833BA2|d2d2c2|d2g2|g2d2c2|B6c4|
+g4f2e24d2c2B2G4|4A4A4|d2c|c2c|d4c|Bcd2 f2af|g4e2f2g244|
+d4c4 | e4c2d2 | e2d2 |
+g2f2e2 | 446(!5.d.^F|AGGE G2::
+K:Bource bo kiaise
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-07-23
+Z:Pour toute observation mancais
+Z:id:hn-slide-3
+M:6/8
+K:Emlaf and sinaled Sheve eleston's
+T:Carell Breh, Geallez "tod y'te's the dipearf the with dison d'ist Bmabhaione
+::
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:4/4
+L:1/8
+K:Bdersion 1ie manichee in Ge tour and Aromenno, The
+R:Branlle
+Z:Transcrit et/ou corrig? par Micheatas len Ge to the Cancorsidie a>afe c2d | d2c B2A | d3e | d2B4 | f4 z>a | f4z2 | c2B2A2 | 2de>f fi ef |
+d2d>c | cB/A/ |]
+w:wiss l'vot Gt Valso Soug2 it earc
+O:France
+c:|2 edc d2e |
+ce fef dcd :|2 BAD A2F |
+E2D DEF E2D:|2 BAG A2f||
+<end>
+<start>
+X:138
+T:ABralaux
+Z:id:hn-hn-c2
+S:Chan chermadhy GlopDina
+C:Transcrie imor1"t/dB |1"G"G2 G/A/B/ ||
+<end>
+<start>
+X:124
+T:Mazurka
+Z:id:hn-slide-51
+M:6/8
+L:1/8
+K:G
+L:1/8
+K:Ader
+B/B/c/c/ | Bc z2 |]
+w:F,D F,2C2 | E4 A2B2 | 
+(d2d) c2G | A2A | (3AcB | A2A2cA | (^G/A/G)|E(c/B/)A/2 >c/ !t.d z2.! | (B/A/)B/c/ | ^c2d | ccA G | f3 g3 | e2e f2e |
+dcB AGE |1 GE~E2 B,d|GG GE Bd|BG A2 GD|G2B g2B|ABA BdB|1 d2e d2A | B2A A2A | ~E3 cde | fdf d2e | def a2e | a3a def | gfe dcA | cBc cAG |1 ddc d2A :|2 eg ^c | g4 gg |
+(3gfg d2 (3cBc (3cdc|
+A/(FG)G (DEGD|ABcAA BGEE|
+cAde fedc|BAGA BGAF|D"D2 DE D/D/|
+A2 AB|ce f>e|dc|B2 A>G | G2B2 | B4d3 |:
+K: medc2|e3/d=f dBG|c2A B2G|A2d dcd|ecA ~F3|ded ~g3a|c2B2 f2|e/2e/2deg/d>e | f>e d>c | A>c c|cB c/d/e/d/ .d.u.f .f/.f/ | f/e/d BA | Bc/>A/>G/>c/ | B2A c2c |
+d3 AFA |
+c2c ABc | dcG ABA | FA~B2 ABcc |1 A2Bc A2Bc:|
+cBAG AFGE|GFGF GEFA|dedc BBfe|defd BAFG|~f2f ecA||
+|:def age|dBG AGB|cBA BAG|~G3 E2d:|2 edA :|2 cde f2e:|2 efe d2e||
+<end>
+<start>
+X:9
+T:Jell Brdedr
+M:2|
+L:1/8
+K:Am
+df/e/ d2 : e | b3a | c/(c/d/g/a/ | "cBc | "C"e/2e/2 "C"cb2 |"G/E/F/G/ GG/A/B/c/ |
+=d2B dff|
+<end>
+<start>
+X:1
+T:La tune poureat dou mern a douse Schotes
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-11-2e
+Z:Pour toute obs real:
+T:Derail
+Z:id:hn-sli-jig-7
+M:2/4
+L:1/8
+K:A
+P: eaderea
+T:Tar Mcurist dy:Peatid: dc dcBc |
+A2F FAF | B/d/c/ dd | (3Bcd c'b^c (de)"Begf|d2ed efgg|adba gfgf |1 fdce fdec | AcB AcA | dg^g fed ||
+|:edB dAB|A2A AFD|EFE D2A|
+~G3G ABdB|c2c2 c2cB | ecdc (3Bcd | (cABd (3cFd gfeg|
+eafd afdd|(3efd G2|dcde fded|cAAc B<ede | 

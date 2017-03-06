@@ -1,0 +1,13 @@
+<start>
+X:16
+T:Temp #96, #24, #92 Moww
+N Youndocencos
+C:Trad.
+R:Mazurka
+R:caraerobservation mailto:galouvielle@free.fr
+M:8
+L:1/8
+K:G
+A>A|Bd dd|F2 A>A|A2|1 F3 (3Agf |
+agfa gece||
+<end>

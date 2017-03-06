@@ -1,0 +1,15 @@
+X:157
+T:Geriathon Waschar McAling Maan-5
+M:4/4
+L:1/8
+K:Emaj
+Z4 (f/2>f-g2>B2>e2 | d4c2 | ccedcc | BBc3ef2 | e2edcc | =cdcABc | dgfe fdff | edcd B2B2 | B2c2d2 | d2B2 d2c2 | A2B2AG | AAGEAG | ABcd e2ea | g2c2d2 | (3gged | ggg d2 gfef | cAdc cA~G2 | cBA^G A3A | e2c2 B2c2f2 |
+g2e2f2 e4||
+e2ga babg|
+a2ad A3a|gdda dAGF|
+GED2 BG~F2|f2a2 g2a3:|2 fdBd Bedd|
+a2fe dBAB|ABGd Bd|de fa|1 ~f3/2 e2g2|c2fe f2cc|defg ffgf|f2d2d2 e2F2|1 d3F | C2G2 | FGA|cAG cde|
+(3c2A Bc ceff|(3Bdf gAFA |
+Efde d2de|dBBd B2ed|1 dcBc BAAF | AFAG Bded |  (BcAB=A GAGA |
+F2AG FAAF|
+FAAA A2f2:|

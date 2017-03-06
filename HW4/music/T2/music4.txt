@@ -1,0 +1,21 @@
+<start>
+X:24
+T:2on to du- et on thr Hgric m\'a  ci vu-lio the fiar ovens pa l'oblane
+D:Jag Oa gith ga Dis thi fies ars
+R:slide Hanfo
+W: Ai version of the moog, The
+T:Lassi #27
+Z:id:hn-slipjig-81
+M:2/4
+L:1/8
+K:G
+A2 A2 e|dB/^c/c | d2d |:
+2:Da ||
+c2dB AFDF |
+|:,2AB B2GB|ABcB AGFA|Decd d2ec|dcAB A2ce|1 ~f2f def||
+|:~a3 ba~g2|efga efag|agfe fed efg|eAB BAB|dBG DEG|FDG AGG|ABd eaf|eaf g2d|edc Bcd:|2eg|fed c=ef|f>g fe|fa g/|a/f/a/b/a/b/abbg|
+"C"esea|
+d2e3f edec | F2f2c2 | c4 c>f2> |
+64 | x3 G2A :|2 G2E E2F :|2 ABc d2B :|2 Ade d2B | BcG FEE |13FA BdB | (G2Bd) | d2>d2>d e>f p>>=B>B AB | c/d/e/ d/G/F/A/ | B>B Ec | BF | >e gffd | fdec d2fd |
+ecdB GAFG | G2E2 G2 :|
+<end>

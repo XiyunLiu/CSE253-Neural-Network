@@ -1,0 +1,9 @@
+<start>
+X: 24
+T:Galond Po VariA Fooke
+T:Lei douc M?crolle fiaclane
+Z:id:hn-slipjig-5
+M:C|
+K:G
+e3|e2d g2g|g2e dcA|Bce f2d|eff edB|dBG ABG FED:|2 ^FG-A2 c2 B2) | A2z2 |]
+<end>

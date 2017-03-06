@@ -1,0 +1,15 @@
+
+
+<start>
+X:98
+T:Ewnoge Wie: The Fablery S'oon With tonce#m7
+A:Fasouis O'Keenapole
+M:3/4
+L:1/8
+K:G
+g>g|
+d2 (3ABc (3cBd|edcA ADD2:|
+|:(3dff fe dd|1 dAG A2D||
+<end>
+
+

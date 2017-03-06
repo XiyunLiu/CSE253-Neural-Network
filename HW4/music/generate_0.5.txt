@@ -1,0 +1,392 @@
+r oby Lofger" (Vees cel Breedu
+H:Allo pery aldan: Il boldin op twnneses, Tee
+R:Sp?ondre
+Z:id:hn-hornpipe-43
+M:2/4
+L:1/8
+K:D
+de dB|ce|1 fd FA|A2 e2:|
+P:Vanse
+Z:Travu ipe
+Z:id:hn-jig-35
+M:C|
+K:D
+A2A2 F2D2|ABBc BABA|GEFG A2ed|dBcA GFDE|
+agfe dBdA|Beed BGFA|BcBe ABcA|G2Bd efge|
+dAFA Bcde|
+~e3d afga|(3gfe dc d2Bd|
+cdBc edef|1 efge dagg|afda gfed|(3cBA (3Bcd dB|AGEF G2ED | GDAB Adfg | agge eBAB|1 ABcA BFAB|AGFE FDDB|AFDD DFA|1 A2G AGE :| a2abc'2 | f2e2dcB | c2cc | d4=e4|d6D2 | (=A/d/A/)G/A/  d>d z/2c/2d/2c/2||
+P:Vin itple663-04
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:C
+c>cAB | =BcBA||BGB b3|faa gag|dFB cAB|cBA cBc||[S:B2 "M\/"AF Itart>
+X:6
+T:Leo Thes
+Z:id:hn-slide-43
+M:9/8
+K:D
+Ad~a2 bgag|A2BA a2fg|fa ab (3ag['eangac::
+K:A] D2 D2 :|
+|: GAB |
+cd | c/2B/2c/2B/2 BA|"Am"AB/2c/2 "G G2A |
+B2 Bf fe||
+<end>
+<start>
+X:1
+T:Johnnscow, The
+R:redls
+Z:<baf ama2ab
+|: 
+"E\
+EG FGA | c2c ced | cBc dge | (3edf (3efA Bcdc|
+dAGG ABcG|A FFG | e/g/e/d/ e2 | _ec | ec c/ cd | bc ec||
+<end>
+<start>
+X: Trome tone falley duglig
+O:France
+Z:Lally
+R:--a
+S:Math a4 Ma (f/e/d/g/)(ed)c | B4 |
+FGLAG/2 | !breath!B3B|A2~G2 AFBA|d2de ddBG|A2Bd cAFA|d2ef edcB|(3ABc (3fe^fed eagf | (3gfe de | "C7"e2g | "D"c3e | "G"AGA:|2B3 | BBB |
+"Am"A2 "F"A>c c>c | d2d>f | zf cd ||
+B2 z2 :|
+<end>
+<start>
+X:6
+T:Mickiog2 
+D:Shtes also #420
+H:Olare
+H:Ra afde bock of Sarel Dois overs in Shives a fath Ceascrallet feath Sa Choth rdeh, The
+C|"C2CD | G2G2 | d>ce c2e | f2a d2c |
+G>B BB | BB/B/ B2 | B>B A>B | G2c2c2 | f2e d2e |
+Acd e2f | dec dBG FED | F2A B2A | B2A F2A | E2 E4 G,G, | D3A | G^G A3/ A/=B/2 | dcBG !breath!c2 | G6- | c)z2e2 | 
+ed/2c/2 f/2=B2 |
+d2 a2 b2 |
+g2 ba fg | bb g/f/ | cB AB A/F/E B/2c/2 cd |
+c2c2 | d4B2 | G4B4 || B2G2BB | ABBB | B2B>c B>AG>F | E2F/G/ F2F | D3 z2z | d2 d2 :|
+P:varia"c>
+GAB A2B |
+A2B |B2c d2e:|2 eag :|
+<end>
+<start>
+X:33
+T:Farcain
+Z:id:hn-reel-78
+M:2/4
+Q:1/4=120
+M:2/4
+L:1/8
+K:D
+DFG EDC|cAGA d2ab||
+fagf a2fd|~A3c d2cB|cdBA G2AB|1 ABcA GFEF|d2gf edAG|AFGB AGAB|c2 (3B^cde^fgg|abag d2 (3dc-|d2d :|
+<end>
+<start>
+X:64
+T:Mazurke
+Z:id:hn-pi-g2
+M:6/8
+L:1/8
+K:G
+V:1
+d2ded d2cd |
+z4 z4A2 | c4c2c2B2A | 
+<end>
+<start>
+X:23
+T:MicBd Dag|| ~f3 adf | ggf efe | fef gaf |
+ag~d2 gfed|defe degg | e2ag|dfag agge||
+bgab a2af|
+(3afb aa F2e||
+<end>
+<start>
+X:88
+T:Mars 1
+C:J.gig e2b2|e2e2d2|1 123f|g2g2f2:|
+|:f2e d2B|g2e dBG|A~D2 BEED|BAGE EDCE:|
+<end>
+<start>
+X:23
+T:Thaterc dlqubae. Jighian mastyd liem rafinal
+Z:ie:hn-slide-5
+M:6/8
+K:G
+~D3 DAd|BFE FED|FA A>A|Bc dB|1 A3 ABd|cde aeg|fed Bcd|AFD EAFD|GABc d2cB|
+~B3f ~a3b|afga age | g3b BeAf d2ab||
+<end>
+<start>
+X:421
+T:Chashard, dich raell Frid
+Z:id: 20 "Tun-lafo
+O:Bruadindend wigh the ond wiss ard higalt
+O:2a3gfa|bag egg|a2g f2F|d2e f2d|e2d ede |
+f3 dBg | g2e dBe | fgf dAG ||
+A,4D2 :|2<end>
+<start>
+X:32
+T:La gee an com" Hee migh afd ai tu lowine
+R:Firne
+Z:Transcrit et n' fest pesid -
+Z:/r/ e/e/d/e/|c2 cc/B/|1 G2 GF G6|
+c6 | ccde | fe2c !breath!D2F|DEF D2F|~E3 G2A|GBE D2F|E2F DED|1 EFE E2D:|
+<end>
+<start>
+X:9
+T:Cobservan Bridd l'o Coon tel af the Roth Seetlard badiney Bretled The Gail faicish the Righ, The
+T:Graestarl Hilladdine (1670-8
+K:F
+AB BA|1 AB A2:|2 BA G>e|ce Af/e/|
+dcA G3|
+BcB A2^c|G2:D2 | E3 GcA | A3 | AFD DFA | B3 G2A:|2 (3Bcd ~e3d:|2 ddcA GEA||
+|:f2e def g2g|agg age:|2 edA BAG:|2 dff efe|dec dBA|1 ABc dfe | fdBA cddc | cBAc d2ef |
+gedc | G2AG | A6 "C"G2 z/F/ "D"G G2G EDD d2g/:|
+P:Verserea.
+D:Pop tun Ane au-con-ndinet in Do Dou foulion of dip, Chaende Duva seol'Gir\'u Polka, The
+R:jig
+H:See Paily
+R:slip jig
+Z:<anal
+(1G2^G2G2 :: f2e ccA | dcc A>AB | c2=B2 d>ef/2z |:
+c/d/A/G/c/ | ez zf/2f/2 fg|1 gec d2e :|2 Gegf d2AG |1 g4ec d2ef |
+~e3B AFAF|~D3E EDDA|
+g2ec dABA||
+P:variations
+|: d2 def | g2b afe | bgb agf | g2e e2d | c3c BAde | dcAB E2GF | B2A2 B2AG | D3F | EFEF DABc |
+dede fga | b3/2a/2 B |
+Az/c/ d2 | cB c>d | ec cA | B4 | A4 ||
+<end>
+<start>
+X:41
+T:Variatiby Winde
+P:ton Bdob baan bobservak>
+S:Thoimpisthe
+O:Irean &-87
+M:V/2
+A2D4 FAFD |
+zAAB efee|dddd BAef||
+<end>
+<start>
+X:6
+T:Sachanted:2 z | x1 4 f az   | [P:Rarast
+Z:Transcrit et/ou corrig? par Michille
+d:Wast part>
+X:930
+T:La g?re .toploye reeder to dot arbefolanche
+T:Altan: Scina net parts
+H:ereprioe
+R:Francede Sppig-11
+M:4/4
+L:1/8
+K:G
+A2 AB|c> G2A|cAA d2B:|2 deA def||
+|:def gaf|gab agf|ege fdB|fdd cAF|E2A DFA|ded gBg|~g3 edB|AGG B2B:|2 E>E ED | c2d3d | b4z4 !b f=e | c2c2 |]2z2 |:
+c3c ||=cAcd | ce=ec d2dd |
+de ge/f/ | d/d/d/e/ dB |1 B2d c2e |
+A2B ABc | d2B B2B | A2^GAB | A2Bc |
+dd/2/c/ d/e/c/d/ g/b/b/a/g/ b/a/g/f/ ed|Be/d/ eg/f/|
+gf/d/ eA/B/|GE E/F/D:|
+<end>
+<start>
+X:14
+T:Maichatte di sane vers.?)
+Z:Transcrit cornaz>
+F2 GFEF EDDB,~F2 :|2 A=e(f/e/) | fedc [1/46/2 BG/A/G/A/|BA G/2c/2A/2 FE:|2 ez cB ||"C"ez/2 "Bb"d2m"c/2>d ed|"C"cB2|"C"e2f e2e|d3 B2B|
+c2 e3c/2e/2f/2e/2f/2 | f/f/e/d/ BG | A.c/c/c | GB G/ AA | (cB) e^- | c/d/e/d/  | (d/d/c/B/) "F/" "G"d>c c>d - | dA/c/ |1 c2_AAFG>d||
+<end>
+<start>
+X:11
+T:Martist wastama
+T:(c tt et c/ule>
+N:Somatthe
+Z:id:hn-regl-68
+M:C|
+K:Bdor
+Bcd e=f>e | f2efg2 | e4dB | B4cd |1 (=B/d/c/) | f2e>d | f4 | {e2c2_B2B|d3 B2A|Gcd A2B 1|
+B2 |]
+zz:F/"F7"F22G2 :|2 e4d4c4 | B6 BA |
+B3B | BAzBz | c2z d2e | Md6/4F/4 B4 |
+FFGF|ADCD ABcB|AGAF DFDF|1 GAGF G2:|
+|:d3|f2g e2f|efe fed ~g3:|
+<end>
+<start>
+X:72
+T:Rambgeanne fier Hill Crom the GDottish of dohn Inerne de tantof Bo mon Breau an: ajeg | afga b2gf | e13gfe f2e^c | (dAG) (3gga |
+ggae edef | f2ec dAFD | EEFE G3A (3efg:|2 cBcd edcd:|2 AdD GAB :|2 dBA d2c||
+|:T\bleaffr
+A2B A2c|d2A AFD|
+GGB AGF|G2E DEC|BEED EDFA|(35A2|B2A2 A2e|d2B dBA|GA:|2 FED D3:|2 efg acd|ef/ f/e/d/e/f/ e/ c/=B/2/>d /2d/2 "C"cz B2 "G[Bd] |: z "Em"E2A GAF |
+G4 ||
+T:Grins dess
+A4
+DEE | D3E tGFGGG | A2D2FG- | G2dcB, | F4 | B2z2 | f2e2 |
+c/2d/2c/2B/2c/2 |1 AB cd | c4 | "Cm"BG/2 | "G"dz d2 c2 f2 | f/ef | e,/ed cAF |
+EGAB efgd |
+(3efg af :|
+|: fd^c dfe | def g2g ||
+<end>
+<start>
+X:30
+T:Mazunke cea #13
+A:de sarbey
+Z:Transse the
+O:France
+A:Provence
+C:Trad.
+R:Maslog annan and #727, Ire.
+D:Chervation of Harlle.
+Z:Tamisere Larne Pewnischt Stanas Nampinem .uis Aablecto! |]
+<end>
+<start>
+X:34
+T:Le tome Mland atriel, The
+S Lik Ramfither Baunto:galow, lau to "Ingseevaup"Cons Colled in: ave ? paut te plefog .ane- 1 nat =9m di Danc tean Z1 My ga downy.
+D:EADB AGcB|defd Bcde|f~f2 egfe|d2Bd ecAG|(3eag ^D|=B3 G2A | 4B/B/AG AB |1 c2 A>c | f/a/f/f/)d - | G2G2 |
+GGB |B3 A2B|
+dcB AGF|
+GBF AFE|DFE ~A3|:DED =E2 EF | E2d AcB |
+AG (gG)(dd^c ddd^c ded|
+agd d2A BAB |1 GAD D2:|2 dfe dBc | dcd edc :|2 Add c2B | dcd G2f |1 gg (3cce =cAB | ABcd eaec | B(Bc c^c (3Bcd (3cd2 dd :|2 AAA BcB ||
+<end>
+<start>
+X:26
+T:Bour to :Traf.
+<end>
+<start>
+X:13
+T:Jamns
+d:Caar birc2 Stradche
+T:Polka
+A:Kevam BTrome: 2c2 Ofted Grlints Gigigriatians
+|: GBd |1 efd 2de:|2 d3 d2B | c3e f2f | cede d f2dA | dcAG FAdB|(3Bde (3cabc | (3eBA fA|A^c ADC:|F DC D,,E | G,,,A,2FG, | D,2D, | D2 ::/2
+<end>
+<start>
+X: 1193
+T:Cohn Tameher.
+Z:id:hn-polka-98
+M:2/4
+L:1/8
+L:1/8
+K:Eme (3DED G2:|
+P:variations
+|:d2 d2 d2:|
+|:fd|ABcd cA~A2|
+cBcA AB^cd|e2dB A2fd|cABA =BdcA|1 AGFA GBcd:|2 e4 | g4g4-d3c4- | G2B>d|B>BA2GG |
+B2 FE/F/ :|
+<end>
+<start>
+X:79
+T:Molare
+Z:id:hn-polka-33
+M:2/4
+L:1/8
+K:D
+DF | AccA =cBc|1 eAAA | (3cBA (3ABc | BAGA DFA | A2c A2B | GAB AGE :|2 AFEF E2 (3EFA | E2EF ABcA |
+K:Bdor
+BcB A2B |1 B2B ABA |1 A2G A3 | A3 | fed ecA |1 BAA BGE |
+FGF dAF | ABAG ABAA:|2 GABG A2dA |
+B2G |G2A,B/A|
+GBcc F4d2|
+F3 G=F | E2 E>D G>B|AB d>e|dA E/d/c|\
+G2A c2d | A2A F2B | AGA Bcd | eed A2B B2A | BBA B2d B2A | B2c A2B | (3GEF |
+e2 eg fd BA B2d2 | edAB cAFA || T::9. 1.cB,2 |: 
+<end>
+<start>
+X:82
+T:Aussche
+O:France
+Z:id:hn-reel-34
+M:6/8
+L:1/8
+K:D
+FEF DFA|BAB g2B|ABG FED|EFD E2E||
+<end>
+<start>
+X:19
+T:Direst part come ros (1.7)
+Z:Thom #12 atet pJig.
+W:Redfiando
+T:Cullon beate the fit Laur Holloux tou-ra-lo par-aan Brigard
+C:Anothe 3
+dcA cA^A | gd  d (3d/B/e/ | d2 G2 :|
+|: "E>g2 | fe ed/c/e/d | zz :|
+<end>
+<start>
+X:88
+T:Farand with rias als \'i Be coreiru : Pull doe
+C:Ae bieelt Ci :hornpipe
+C:1 Blayee
+R:polka
+Z:id:hn-slide Don's
+R:polka
+H:Also played in D ains to Glad fy Elanelve (167)|dafg a4g2 e4|d6B2 | A6-|ccAF DFE||
+<end>
+<start>
+X:1
+T:Svefced cedB|
+<enas
+Z:Transcrit et/ou corrig? par Michel bcatar tant | "G"BG dB/G/ | "D"E2c GG :|
+<end>
+<start>
+X:19
+T:See the Book, The
+T:Leire "The Fary.aifl Flec/fraiti?)
+Z:Transcrit et/ou corrig? par Michel BELLONp "Gart nagaire
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-04-167/8
+L:1/8
+Q:1/4=160
+P:Segd babc'ab|a2bg afde|fafg efd | c=Bcd) | (c>d | B2B>c B B>A Bcd2 |
+A2c2B2 | c4 F4 | G4 | F>E E>F>E | F4|D>A/B/ AB | A/d/=B/c/ AF A3/2A/2 |
+BG/A/ G/F/G | GB | B4 d2 |]
+w:Coi ot Gu poy de the Windinicl Gle tee lt Mfiph"dult ded st Lton_mes reatae Mo the Holl with in's Dreet L'sher
+R:polka
+S:Elt eaighad (cc du the Ting, llet dousell y, Drep pissile
+Z:idde de f>e |
+e/2/e/f/ cBcA | 
+(e2fe dcAG |1 GECC D3d | cBAc cBAG | F2FA B3c | d2cA B3cB2 |
+A2cc | B2z2 ||
+<end>
+<start>
+X:V3
+T:Cailley als's Twon's ha di Drimn Fros is downy: The Nipele the Mithee a Bouscd jo- 1 -22
+M:2/4
+L:1/8
+K:A
+D2 (3fec d2 (3cAG E2 :|2 EGAG EGGF | E2G2 BAAF |
+B,EG,2 D,ED|D2DE DE:|
+|:BE/F/A/B/|(BAd) ed^c|(c>e 2feg|dBAF|d2ea f BcdB|A6 (3c2c a2bB||
+<end>
+<start>
+X:83
+T:Em (n. Les Spow, Tee thai faint Masen Quitcet du b?g?"var
+Z:Transcrit par Mc2unse2 gau
+H:wor mighsofst ver, versioor, #5
+Z:id:hi-pinge
+R:lats
+R:Farck
+B:allo the Aomy and Ballagle (=Ma2^c's Guntero
+de,f a2ge|dBGG FGEF|ac~B2 e2fe|gege dBGE|FABA G2AG|BABG ABcd|Bdef edef|1 ~f3 ded | (3cBc (3ABA | (3BcB Ac | B2 d4 :|
+P:Incho mon in GEF,2 E,2:|2 d3 f2e | ~a3 baf |
+eed edf | edB A2f | d2e d3 | e2d | A/A/F f>e | f4 g | AG FA Bc |
+A4 |1 G3 G2 :|2 : d2c2 d2 :|
+|: Bcd A2D FED :|2 AAG G2 | D2 D3F | G2 E>E GE | FAcB | AB AB |1 BA A2 |1 A2A A^FG | E3 E3e:|2 cAE D3:|
+|:fde dBc bag|dfA ac|cA F2|ea/2/e/d/B c/d/e/f/|
+f3 afd B2A|
+BBA B2B B2c|
+dfd dcA:|
+<end>
+<start>
+X:11
+T:Catelet ean =00-n tt Mounion, the don Hars_eg?
+H:g pasle]
+<end>
+<start>
+X:16
+T:Gigfif frois,w,do, Fard>ag | f3g | c'be/d/e/ | d/c/ d/c/G/A/ cB/d/ | G2 GF | ED/A/ :| "C"e2B c2B||
+"Em"d>d de|f2 gd | c4d3A | G4 |1 E4 !Drnatc: x06
+T:Lairsime
+R:Marche dai-t
+M:6/8
+L:1/8
+K:G
+e2e 

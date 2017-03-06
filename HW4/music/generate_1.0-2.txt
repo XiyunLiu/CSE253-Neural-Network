@@ -1,0 +1,343 @@
+ntvell kin andind
+T:Cins
+O:Fran'r
+H:ze.m>
+<start>
+X:99
+T:Le res Carel0. Alladuly
+T:Noman-d el? ?
+R:PoudcBE ABlyes
+R:hornpipe
+B:Gd~B2 B Gcfg|gfag ecBA|A2AB A2AF|(3Bdc BB DAFC|(G2FGAG D2 (3DEF|
+dG~B2 |:AFGA BcBd:|be gefe|dBcB =BGG|BGDB =cBA|(gdeg d2G2:|2 F4F2 | F3GA2B | d2d faz|ea2 g2g|a2g a2g|d3 dBA|D2B>B cA|=ABA cGA|(FEAc^ce Ad F2 :|
+<end>
+<start>
+X:157
+T:Geriathon Waschar McAling Maan-5
+M:4/4
+L:1/8
+K:Emaj
+Z4 (f/2>f-g2>B2>e2 | d4c2 | ccedcc | BBc3ef2 | e2edcc | =cdcABc | dgfe fdff | edcd B2B2 | B2c2d2 | d2B2 d2c2 | A2B2AG | AAGEAG | ABcd e2ea | g2c2d2 | (3gged | ggg d2 gfef | cAdc cA~G2 | cBA^G A3A | e2c2 B2c2f2 |
+g2e2f2 e4||
+e2ga babg|
+a2ad A3a|gdda dAGF|
+GED2 BG~F2|f2a2 g2a3:|2 fdBd Bedd|
+a2fe dBAB|ABGd Bd|de fa|1 ~f3/2 e2g2|c2fe f2cc|defg ffgf|f2d2d2 e2F2|1 d3F | C2G2 | FGA|cAG cde|
+(3c2A Bc ceff|(3Bdf gAFA |
+Efde d2de|dBBd B2ed|1 dcBc BAAF | AFAG Bded |  (BcAB=A GAGA |
+F2AG FAAF|
+FAAA A2f2:|
+<end>
+<stipt/ou gaubo in s-roet
+K:Fbm"
+Fz AG B2 | ce ec | dd c>e | a6 | bgag dege | G fc fg a/(g/f/g/)|g/2f/2 c/2c/2|
+A3/2A/2 A/2A/B/c/)|| (-2c/2=c | (Bc)ce | ddcB | AB A>A De|dd c/d/c/ | BB/B/ BG | d2f2 e2ed | gfdB e2de | d2de dBed | fgaa gded :|2 GAGB c2B2 | FGEG BGFA | GBeg | f2g2 a2bg | e2de d2ed|(3Bcd ec AB d2|A/2B/c/ Ad|ed/2e fgfa|(3edc B2 GABG|AGDB d2cB|A3A D2EF|G2FG G2F2|(3BcB|AdcB BAde|cAdA (3ABG AG | dBFG GBeA | (3AGE AGFA|dGEd ded^c|(3cBA (3cBA BG~B2|Bdfd AcAF|GABA BAGB|BAFA GEDF:|2 G2DB ABdc|B2 AF (3c/d/c/e/||\
+AcdA|G2c|B3B2c8|| [2Bd e2Bc|c2c2 A2G2||
+|:E3 FEF|G2F A2c|B2A G2B||
+<end>
+<staryea #6 Pest, the ne ging Ju Gitos, The
+T:(mpallob
+N,68
+D:Pogka Spllest
+R:polkan.mee.cr.ft.or
+M:2/4
+Z:Pout toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:D
+A>F GF|E>A BG|B>g  bag||
+|:efe fdA|=BAGF EFEF|
+D6(gMa2ene
+|: A2 :|2 dd dc :|2 f/e/c/d/ gf | gf/g/ fe | a2 ggec | 
+GcBc dBcd |
+ecdc dcBG|
+EGEG FGFD|EcAA A2:|
+|:gefe fded|(3cde | fedB a4fg|fdca ~g3f|efag fd~g2|bEdf g3af |a2c2 d4|G4|]
+V:galia@bree.fr
+M:2/4
+L:1/8
+K:EA DF:|
+|:edd feef|~g3e | aba bfae | fedc eafg | e3=e f(de | 54az | gfec B2 :: e2e2 e4c2|(3cBAG B2AF |
+E2 E2 BE :|2 fBd BAG | AGF GAG :|2 ebga gfg | f4d4-g2!breath!C3 c |
+"Fm"B3 cAB|"Cm"cB/2B/2F/c/=B Bd | c2e2 | f2f2f2 | g2f2f2 | deed GAAG|A2DA Bcde|efed gfe|dAB cAA|FAE DAB|AcFA A2:|
+|:fd gfeA|degdabag|fedB F2dB|
+~g3g a2ff |1 BEGF AFDF:|
+(3ee|f2d d/e/c|B/A/FA cf|fe/f/ ef|ed A/B/B/G/|cA A>d|d2 f>e| dcAB|cBAB AAFA|1 d3=cBAG|BGAB AGFE|FDED GAFA||
+|:ABADFFA|BcdBAF|GBB2d2G2
+L:1/8
+Q:3/8=98
+K:Bb
+d2d2 | A2>d2 | B2d2c2 | d4z2z2zB | B6z2|:|
+g2df dffe|dcBG AFDD|
+cA~A2DE DE~D2 | G2 G2 F2 E2 | E3B c2 c2 : G GE | "C"eu comandy R?nd de
+T:An Sh?mbou
+R:Pour Giorblatrit of tt
+C:Trad
+d:Gavaenan Branle de Rharg, staphse.
+O:France
+A:Paurka
+S:ea annt Movins
+T:Mackg#993
+T:Stor Aer paret.
+Z3e2|c2d2c2B2|B4|| GBdB|B2BB cBGF|
+AFAcAB|c2de d2cA|FAAF A2BG|
+A^GA BAGB,E,D2E|G4F4:|
+|:z2|:4c2|de2^c|c(d G>c | !breath!B (Bc)B | (dB)(GA)c B2c2 | A4B4 | c2e>f | dcB2A2 | G2F2A2 | G4C2DE | C2 :G
+G GA |
+dBdc B2BG | GBded BGBd | (3aran (1eMacd4).g|
+fcAB cAGA|BGEG DFG|FAB ga=e|t[fd/c/ a/g/|g/d/e/d/ ce|d2 fg/e/|gf e>g|ef eA/d/|e>a cfi|e/c/ BA|GB/A/ c/d/e/d/ GG :|
+G,Ac eaf | g4ga | aga2b2 b2ag | f2ea g2ge | GAGBdc | cBc2de ecA2|cAGA AGGF|
+G2AB A2 (3EFG|(3cGA B2AG|
+(3GFG AGFA|DFAF GFFA|dcdc A2AA|Bd~a2 gedc|(3efed|G2ed ~A3B|cAGA AB|eg~g2 fefd|A2AB cdeg|f2ed Bcde|Bdgg (3dfe|(3ded gf g2gb|
+S:ear Hannelinas
+R:Schow in dannany
+R:March
+C:sion 2007-08-13
+M:2/4
+L:1/8
+R:Polka
+R:polka
+H:Res de Anancy: fropf, | d4 | c4 :|
+K:F
+D2^c2|d2e2 g4c2|eg~e2 egag|aa/g/e/f/ ge fg|g^Ad afb|efe dBe|gde d2e|def ecA|BBA BAd|fde efe|def|ee (3efd|f2g2 d2dc|d2dcAB|c2 BA Bc/2|"Dm"cg/2f/2d/2g/2 el.
+O:FGAdcedf2 e4 e@fgeg |
+fddd dBGA |
+AGAB cBAG (3FGF GF ||
+<end>
+<start>
+X:34
+T:Tha
+R:polka
+Z:id:hn-jig-97
+M:2/4
+L:1/3
+Q:1/2=2 c2A2 | G3 A/F/ER|]
+<end>
+<start>
+X:64
+T:Bougre's
+R:-aimnn
+Z:Transcrit et/e/ !f :|
+<end>
+<staitto)gbe c2e2|
+e2de cA~A2 AAFG|A2AG BAFA|GABd c2A2|A4AG (3EFG|GEEF EFED|ED GE D2:|
+|:e2c egg|aba gef|gfe ~g3|ffe d2c|efd ege|
+gf dc|fA cG|=c/A/ BG/E/ EG/A/|c/A/G AF|G2| zD C2e|fff gbg|aag edc|BAF EDE|1 GEGd BGAG | FGAd c2BA | AAFA | d4 g3e |d3d Bcdc|
+(cBA)|DF2F| G2G>A | c4 | "Fm"EFG GGA|d2d =cAB|c3-Bc2||
+P:Var anicleevie
+R:marre
+O:France
+A:Prov"el
+<end>
+<start>
+X:150
+N:69
+M:Ch
+R:marnplaalld maslang.
+Z:id:hornail
+O:France
+[M:8/4
+K:D
+~d3f ghze | fffe dfec|dcBA GFFA |
+BGBd gfd2:|2ed c2|eeed ge^fd|.e2^c2 =Bd^cc | d4c2 | d/F/A/G/ AB (3cBA | GBcd Bggg | (3dcB Bc af (3ega |
+e3 A2A|dBd cAG|GEF BGE|FAB AFD|EFG A2d|eAA D2:|
+<end>
+<star.ga
+e/ c/d/c/ | ca fe|fe dc|B2 dB d3|bfg | agb gfe | fdB AGc/2 "C"edc AAA"|"Cm7"A AF G6:|
+<end>
+<start>
+X:72
+T:Franlond
+T:vrealay, The
+R: aurris of #24, The
+R:march
+C:Micham
+GBde | fafd a2ga ged2|AFDF GABA|B2 Bd fefag|
+f3a d2AF||
+<end>
+<statt>
+X:50
+T:Branle
+Z:Transcrit et/ou corrig? par Michel BELLON - 2006-10-03-06
+Z:Pour toute-nazuog
+Z:id:hn-jig-61
+M:2/4
+L:1/8
+K:Bb
+d2dd | c2d2f2 | f4d2B2 | B4G3B | A2BdBd | dBcd BGGd | eeag a2bc'2g|G2 f2e2e|f2f fag|=effd =efga eAGA|d2c2e2f2|e2c2B6|]e2d2 edB2|1 dB dB|Ag cdge | cF GE DA|B2 B2 dB|ed A>e|dccA A2D|B2G ABc|d2c B2e|ffd dBd|faf gfe|dBc ded|BA~F2 A2cA|DFEF DFDA|
+E2GAc2 c2c2 |
+c2d2e2d2c2|c2de fg|eaa e3e|Bggd dcBA|
+dcAA (3dde|dBdB ^cacc|
+BABd gedc|AB~B2 dgef|fagf ~g2|e2e2f2|a2gf e2df|g2e2 eBGB|
+AGFE ADFD|
+DAFG FGAA|A2AB ADEF|1EFG EAG:|
+|:GAB|
+Bcde dBdd|gegf e=cde|dg~e2 eede|eddf edcd|ef~f2 f2fede|g2g2ab54:|
+egee fgag|feddfd|dggf (3aff d2||
+<end>
+<start>
+X:358.D.
+D:Paor Michears
+R:carloug, The
+R:march
+C:Mispl?c, B2de fd G2 A2 cB cA2G | EFD A2B||
+|:edcd cAFA|G2D2 FG~G2|(3GAd BG EGFD |1 FG3- | AGBd | ef/A/ B/E/F/F/ F2 :|
+|: d2e zdc | d2 c/B/c/A/ BG | FE E/A/A/E/F/F/ | G2 A2 :|2 AGA c2A||
+[1 B2 zGB AGE ||
+|: faff | f2af g> | cde ||
+|: dBF A2A | 
+c2c2 A>B A2>e2 | f2b2 g2ec|dBcd cdef|(3Bde dedc|A GAd=B|A2A2 c2c2|B8:4B4]
+GAdc BAcd|gdgf gfec|AG F2|(3efg ef ef~g2 gbag|(3gfe fedB|Bed2cfdef|gede d2B2|dBAB ABde|~g3d afab|aabb f2F2|d2g2e2fe|d2Bd|e3/2!|2eed edce|d (3B^cd | fgza | f3fdd | c=edcB | (3ccc AAFG|A2AB dcBc|d2d2 d^cAe|fgfdB|cd ec/d/|ef cA|
+ABA ABE|DEE eecd|
+AGBc d2eg|~a3f e2G2||
+(3FFd Gf fed2|(3aceg2|(3ffe dfe^f|d4-~afg|afef g3e|d2F2 d2d=c|BAGA A2BA:|
+<end>
+<start>
+X:8
+T:LaucrAuld =1EFE DFF |d2 (3gab ag | ffed | c2f2=e | dGB_ecBA c3c | d2e2 f4d2 | g2f2 | c2F2 | d4- | c3B/c/ | d F | GBG | cG/A/ AFD | E3 z A|gg gg/e/|c=ef efg|a^f d2d |
+Ha2fgfe | (3cAc (3A^Ad edcB|(3G^Ad edA2|(3BBG d2 B2c2||
+B2FB c2BA|
+cBAc (3cBA G2|B4G2 AG|G2:F2||
+|:d2 e2 | dBAB (3efg (3Bcd | cAFA c2AD|
+A2AB defg|fedc BABA|BG~G2:A2A2A2|A2cB A2:|
+<efde
+G:||
+<end>
+<start>
+X:151
+T:Vanten: Mclanle Inain
+R:-ound>
+B>ce edB|BGD F2G|AGA G2F|1 G3B d2ce | f3ggg | c2c2A2A2g2|(3ddB (3Bcd (3efg|dgBg fgeg|fefe dcAB|(3Bcd gf ~g3a|bggd A2EG|BAGE EABc|dcdc BcAG|A2cf dBGB|"C Gz z2:z : Poun Goum Poun
+B:Orch?nped.
+D:Dromin :
+W:"Hugla, din Ond his Fepeston 2 wosten
+R:polka-8ondc
+M:4/4
+L:1/8
+K:Fm
+ED FA | B GB | A2 A>G) | G>cz | G4z4 | 
+|: EDE | DF/G/g/a/ gg/f/ gf/a/ | bf/a/ | ba gf | g^a d fife|c2B ABc|B4d gfd|f2d efd|caz gag|a2g gef|efe dB|GEDE DBcc|dBAA ~A3A|dedB A2DE|A2AA D2:|
+P:varcations
+Z:id:hn-polka-79
+M:6/8
+L:145
+T:Alous pourad uly tembourge"
+Z:Transcrit Anan coughecllese
+Z:Trancc|M d/2f/2e/2 g/2>f/2e|ef/e/ df|
+f3g fffd|
+Z:id:hnghlindyde cun th Ro?bet Aradccte
+R:corran
+G:Mazurka
+S:Days
+R:polka
+A:Provenge
+R:Barnal
+C:Trad.fre.
+L:1/4
+|:[1:Ad3d/B/:|2 D2 DFE:|2 G3 E2z||
+<end>
+<staitron par Michel
+Z:id:hnsarist t'ac sest?re ro's Frigzan
+Z:ib:hn-la-galoui?u sre o st tranle du cougin Cashl Al.fi?e (1939)
+O:France
+S:Carnet du tanl" Alesudres rous-pole "Tand nos-mol amansc.dr.st
+Zwighe's parvation mailto:galouvielle@frelle marcht Merch
+R:Mazusled Mcerlie
+Z:ic:|dcB BAB|DGBd cBA|BAB eaf|gfe d2e:|1 Ge ge/d||
+fA d3|AB/A/ AFA|GFG DFA|AcB d2c|~A3 AGF|DEE FEE|AFD A3G|A2GE EBEG|B2B2F2 (3BGG GE :D.F.A.f | f) c/d/c |
+A2c2 decB | A2f2 fefg | gdfgfe | egdBBAGDB | E2FG A2G2 | E4 :|
+<end>
+BG>EA2| c2A2 | A4G4 |
+|: 2 e3 Bag|a a ged|eaa agg|faf ~g3|g2e d2e|d2B ^c>c|d2G2B>A dc|BA cA A2:|
+|:Bcdged e d^cd||
+<end>
+<start>
+X:90
+T:Wartto:mbel H<and>
+<start>
+X:66
+T:Panly"Scahtro
+[BAF]
+A2d>eef| f3- edc | cBd ecd | A3 c2c | A2A>c fed>
+<start>
+X:35
+T:La Datidon mant C,F"nue trupsel", #212
+Z)DD A B,FA | GBdccA | d3 B2B | d2e dAA | GAd FED | ~D3A FGAd :|2 d2BB AFGE | GABd eded | cfe def ||
+<end>
+<start>
+X:38
+T:Orice Meafthie anonscon
+Z:id:hn-ceros
+D:clion feche Stacksroa
+C:Trad.
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-03-03-25
+M:C|
+K:Fm
+!brvation mailto:gany to de Ali cook Ronndy
+R:hornpipe
+T:Beldy MaDe:|
+<end>
+<start>
+X:53
+T:Le rous re s'er pastlo, le 
+CA=u rnais Vin 11-Va2 (3eag (3bgf de cBdg|g2aa cdec|fabg|edcB (3ABd|1 Addc A2fA:| de (3Bcd G2 (3BFA FEED|
+BABe ~g3e|fed^F A2A2|A3 d G2|B4 c>c B2|df dA|Ac AG|B2 GA dB|cF Bc Bd GF|G>B c de||
+dB ed B2||
+<end>
+<start>
+X:9
+T:Spre Kingenuo, The
+T:Niellevsi ettme varig? lounel
+R:Marche
+O:Rinarst Chrog Marcdle& Morrinl
+C:Trad.
+R:Aram"Bc/2c/2c3/8| d4 BB|cde2 d2d2|e2e2c2|B3 B2B | [K:Bb]
+<aad>c | B2A2AB:|
+|:BAcd Bded|dcdB A>BA:|EFDB A2FA|
+A2AB cBc|Adef fegf|~f3e dced|B3 (3dcB A2 D4:|
+|:B2|d2d2(3dge|efee d2BB|
+A^cde eAA|:B2A B2d|age^fd|1 fded B2g2|(3gga eg (3Bcd BAGF||
+|:FEDEDED|AFGA FGFA|
+AGAB BA|GB BA|GFAF G4:|
+edcd ffgd|c2FB d2:|
+<end>
+<start>
+X:13
+T:Trod twnttante
+R:?
+ssec}ucu-l7e Mazuck
+Z:id:hn-jig-55
+M:3/4
+L:1/8
+Q:"Quces clu-c2
+R:2cantam
+D:Pron mamboe Horrnt Molra.ovinso
+B G FGFG | A6 ABd2 | (B2d) | g2z2 | Bagfd2 :|
+d>cB>B | A2 F8||
+<end>
+<start>
+X:46
+T:Litrana Maubro 
+R:Brance
+C:Turno: ~a2b afde ag ghish
+R:march
+A:Marche
+T:Amphing goish Marches JHar on Awold F Dradchar, Thenudyed, The
+T:Lasson
+R:Fransis siamaphie (188
+K:F
+F4!brnat dun masche Madfgafoftion <end>
+<start>
+X:46
+T:Tran Roile Jianscrotere
+R:polka
+D:Neistepn.er
+!+!d3f d2 B2 !breath!c2B2! :Tho ktowe, #110
+1:Polka-hAmpla fes.co.
+D:Gin Sted|
+f2a fed|eaa|gge|fegfag|a2b2 a3gaf|g2ga g2(3ec|dGG GBG|~G3 cBe|dcd DED|~G3 EFE|DAB cde|(efdeed|1 fgf gdc|B2d ~G3|
+~F3d B2dB|dedB cAGA|c2Bc df~g2|defg edgB|gaga baga|bage Bced|(3fgd egfg | ~e32 d3e | fdce d4 | (3ABc|dGGB ce^ce||
+|:gfg g2g|faf ecA|
+fed efg|ede ffg|aga gBA|1 2BG G2 :|
+|:gfg agf|eAB cEF||
+DFAB cdef|afag aged|e2g2 (3fed M:O'Ch=pland. "Thand 

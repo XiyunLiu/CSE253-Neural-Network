@@ -1,0 +1,11 @@
+X:69
+T:Miche minh S|e2" Lench don mailit:
+M:2/4
+L:1/8
+K:Gdar
+~arsarast
+R:Nor-jid H:.
+Q:0/4e/2f/23/2e/2d/2e/2 Pc3z | BBBB | B4B2 | Dcdg fred2 f2d |
+F2- A BAB |
+c2B BAe | deB cBA ||
+|: ~E3A BABc dBBG | DB2G2G ||

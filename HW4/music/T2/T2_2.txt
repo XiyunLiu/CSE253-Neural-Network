@@ -1,0 +1,14 @@
+
+
+<start>
+X:1245
+T:Le wai dried S
+L:1/8
+K:G
+d3 d2g|f2e fdf ecBc|A3A GE~D2||
+:6d3b a2gf|
+g2ba gbmaj
+|:B/B>B/Bc | c2 dc d3 | c2z F2A | B2_"G"d3B2A | G4 G2G||
+<end>
+
+

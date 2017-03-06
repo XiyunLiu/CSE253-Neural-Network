@@ -1,0 +1,12 @@
+<start>
+X:3
+T:O'Sc Maranc Ri-fer pertoh rneinel Benas-se
+Z:id:hn-jig-31
+M:C|
+K:C
+V:2
+Ae-f2 f2d2 | d2dd) | (f4) | f4f | B>B | d3) ||
+effge|edf e2e:|
+|:fBAc d>ed | fef f2B | F2F G3d | e2d eag | fed ABd | cAG A B GF | d3 G2 | D2EF D2E2 | A4-2 ec dc d2 | AG fe cB | dB cd|ce d>f | Gi Cf par'N?c ~f3ded|FA~B2 AGEE|dd:F2~A2DeedcB|G2G2 G2B2|FABc AGBA|c2cB A2G2|B2B2|B>fd>B|cdce ffef|fecB decB|| (3cBc (3Bcd (3FAA|b
+G2 D2|A4:|
+<end>

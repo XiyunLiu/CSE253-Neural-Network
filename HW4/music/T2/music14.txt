@@ -1,0 +1,32 @@
+<start>
+X: 20
+T:Duntlan(.Fis-nnon (1974- 8
+M:2/4
+L:1/4
+K:G
+V:1
+c2d2>c2 | A6 | A2d>e d>cB>G| (3G|DE,D, DG,D,D,2 | E2E2D2 | A,4A2|A2cABA|d2Bc B2AB|
+Q:3] (c3!+!cd/2A/2 | [P:5
+L:1/8
+K:Cmix
+cD D2:|
+|:GE EF|^cd ABc|1 B3A Pobstoin Zdidches ank p?re d/8
+T:bou dop na. Jig, The
+R:slip jig
+H:The Rofdan Mice oig Tommmaishe nomp ?t
+BcB |1 B2 BA GA | Bg/2 BA G2 |
+G3 A/c/A/A/ |
+BA c/B/c | {=B}.d2.E2 A/F/G/B/ BG A2 ||
+P:D
+ed|ccAG FEFE|DF (3EFA GABd|
+(3fed ag af | e2 a2 g2 |
+ecAA |
+d2d^c d2ed |
+(3gea bgab|afed e2de|g2ab afeg|
+edec ABce|deff e2bc||
+|:~f3d eage|d^cdef : (185)][ded=c/2=c3/c/B/ A2:|
+|:e3d afe|ddc dAF|G=BG cBcA|~G3E ~D3F | Bd~A2 DABc||
+|:ddd cBA|1 AGA G2A:|2 EGEG dBG||
+|:~e3 faf|gfe d=B|
+B2G AGA B2z :|
+<end>

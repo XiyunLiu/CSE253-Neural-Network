@@ -1,0 +1,321 @@
+nt le fregan
+D:Clan
+T:Seornd
+<end>
+<start>
+X:93
+T:Sompers B'Carree
+R:horne
+d2|de f>c|=df)dBAGF2D2 : B2ef fefd | g3d | B2 d2B2 | c4 | !De/f/ F2 | FG z2 | fe d2 | f3 | gef cec | d2 (e/d/) G2 !+!=B/).c.B.F.d.d .c.B.d|.F. .f.c B2 (1A2G) :|
+|:G2B dBc|d2B B2B|1 feg f2g :| 
+<end>
+<start>
+X:I4
+T:Muzktoy:Huek fraphtrainam Pate on mat.! ht>c/ d2f | b3/2g/2g/g.g2 B2f2f2 | g2e>g | f2d>e | f/ef g2 e{dc}B2G2)d2 egf}e2 | e2d>c | d2e>d F2A>A | B2z>B c2- | d2>^g>f A>d >>d d>d |
+~B3A Adeg | gece fefa fdef | D2GE (3EGE D2ED | GGFF BD Acd>e | d>c d>e | | !breathys ?mint Browzansen ADeyse, #217".e" \"FG"ddc BAG|"C"^FA | "C"c2 :|"4"4G4]"CEF G2|"F"F G"d2z :|
+<end>
+<start>
+X:29
+T:Nell. Gigine'se va to in sasssogr
+T:Thermenw, Dan, The
+R:polka
+Z:id:hn-real.
+k
+K:C
+D | B3 AAG | FGA GFD|EZ D FFAF|1 (3BcA GB GGAG :|
+T:Ven in Bllig, Fathspand
+T:Hanas un Bree.frt>
+X:334
+T:Ban I stont>
+X:5
+T:Lilergive@bree.fr
+M:2 cGAG | "G"G2 |: F2 z2z | B3z || d6!G.C !Grt>ef | defe f3g | gag e2 f | 
+fg (g4|
+(3za2 (3aga | g2g f2d2 | f2e>g BGB>d | d2d2-4 | >BA^G2 | A2 BF/d/ dc |  d2 d|g2 g2 g2 d2 | f2 e3 |
+Z:Transcrit Crol, The
+R:hognnap~y: Jig et les ret beine, Turissone mes vinticket March ofd.e.
+.f.dd.d.=B/ .c.c.f | !+!d/c/A/G/A/)B z2g |
+a2e d2e |1 gf f>d | ce g2 | g2e>f d2 | 
+f2 b2 f2 fd | c6-02:|4 d2B3B | 
+B2B/dd | c2e2 | {c}cB | f2e>f ec | f4 :|
+[K:Eb] fef | d2d>e | eccdc_BA | c2A>B BA2F|GF AF E2 AF | G2A F | F2 Af G2 | B2 G2 GB | G2 FE | G2z2 | G4 |
+[4B4]z4 | c4- | d2 z/2c/2z/2B/2 Bd B2 zz !Drnpine
+R:---polka-)
+M:C|
+H:Ale@free.fr
+M:4/4
+L:1/8
+L:178
+T:Aamialas
+R:Cirscett
+R:-/2
+<end>
+<start>
+X: 67
+T:Fuz Jime Reengs: Larent ofsh Strin Ilar's Leen re maolla 2 balto)
+{B}.B/.d/.G/.B/.B/.=B/).F.B.G.B z2|"B2B (3c'f g>a|ed A2F|DEE D2A||
+P:Version Havatigng
+a:1/4
+Q:1/4=60
+K:Cm
+K:D
+mBcB BAF|G2d fed|A2 AG A2|A4 Bc AG|A2 d2|c2-c2 z2z2|
+(3BcB | g2e g3f | f2e>f .B2 | d2c2 | cA>B | AA>c | B2 BA | Bc cd | A2A A2G |: Crewagney:1, F,2 | F2A z2d : 
+AFDF EFD |
+FFA B2B | A2A cEF | EC  E/F/E/ G/d/ c/d/^c | d2 dd | ef ge | e2 e3 | f2f fg g2ge'2 | g2d2B2 |
+A4c2 d2B2 |
+cBAB G2c2 | GFGd e2f2 | g2e e2d | c2d cBA | D2F FcA | ege (B2b | afd edc | B2z2 | GBcd | d2f>d gg2 | g2g>efd>c) z2 z>B | A>d g>f f>ed>e-2>
+<start>
+X:3/4
+L:1/8
+L:1/8
+Q:3/8
+Z:Transerit et/ou coorig? par Michel B~E2 | AB d2 d2 | c d/e/d/)z/ | Bc) (cA)d2) .ce.B | {Ac}e2)d=(cFA) | f2 z2z | d2z | B2z2 | F2A c2B | c2B2 D2 | EFD B2A | ADD | E^F D3E | GBdB dGE2 | F2z2B2 | B2F | F6 |]
+<end>
+<start/anoc et | ^f/t/c/ Ad/f/ "ELLON - 2005-09-18
+Z:Pour torte
+M:3/4
+L:1/8
+Q:1/4=160
+K:Cmant>
+X:2
+T:Wald.
+R:Ralled Pomm
+H:O Keanam
+D:Mary Ge fansanes
+Z:Jalifrk: FEsean (Mado-G"^g/) g/f/g/ | ba f2 a2 | a^c2d) || 
+GFE F>A | decB c2c| BAG A2B | c2c ccA | c2c cde |icec |1 AGE E3|
+BA G2G|
+Bc d2 df | dg ed | d>ede | a+breath!e2 d2!bronclles, The
+R:march.!pit e.
+A:Olle2 welathotse tangs Wol
+T:Venservation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:C
+cc/d/ def|dcB g3|(3ded|edcB A2Bd|BAGB:D2
+(3DEF|F2D2 A2:|
+|:Bc|Bed ^c2 | BdBz | d2c | d2e>f | d2z2 | f>g | e2d>e | G3- | c2>e2 || e2f>e | d>e d2 |
+w:an polka-9
+M:3/4
+L:1/8
+M:3/4
+L:1/2
+I:Chonn
+C:Turloubrhe-2992)
+D:Humesd
+H:Berry Gandy Matte tune to maile4 nele pipe-d2
+M:2/4
+L:1/8
+Q:3/8=160
+K:Bb
+V:1
+M:C
+T:Romans nt Devies ynsy, The
+T:Chaule dasse
+R:polka
+M:C|
+d2cB B2c2B2c2 | A>dB>c c>de>f | g2f2 | d2ze | f2g2 e2>c2 | B2c>B d>d|d>f b>gf>e B>B| B2E>B B>c | g>B | c2-- | d2 d2 e>f | e4-d2c | BAB | c2c A2F | d2f d2d |
+AGB c2B | ADE | FA AB | c2 Ad cA |
+e3^c ceg |(3gfed eded | f2e2 d2c2 d2d2 | ((gf/d/).e : ffef gfed | g4 a2g2 | g2f2g2f2 | cB>d c2)zc/d/g/) | gg ef | fd cA AF |1 Bc AF | G2 2>G2 | A2 A>B | c6B2|d2g2 d2F2|BGBcde|d2B2 B2|B4:|
+|:Beg ^cAF2| a2g e2f |
+g2f e2A | B2d dcd | ba be g2 | a2 (3fed g2d2 | dcAF~A2 | A2)AFA | B2c2B2 | c2c2d2 | d6z |1 B6 | BdBg 3d | cgb g2g :|
+<end>
+<start>
+X: 1
+T:Mazu-1605-09-15
+Z:Pour toute obser?
+Z:Pour toute observagile
+H:rettar Ition mailt.E.C.! |]
+<end>
+<start>
+X:13
+T:Had eally R:mailto:
+ABd BAG|AFA ~f3| gag a2g | bgga gdfe | gedc dBGG | GG,FGB | B2B2 B2AB |
+E4 F2B2 | c2c2 c3z | B2B2B2A2 | c2e c2d | A2 G4 | LBc/B/ d2 | 
+(c/) z2A2 | d2z2z2 | G4 |
+egga (3f (3afg|efad eAGc|(3GFD GDD2 |: A2 | G2F Adg | ged cBd | e3 d2B || #75
+H:Tiledon Be cardes la tour do we 2n Sumer?
+R:polka
+C:And dese vence
+D:M?vis "De4c (AG)D |1 EDD,2G, | F,4 S,4- | C^C |
+D9, D,2G,2D,2|D,2D,4 D,4 |
+F2A2 | f>f f>f | d>B A>E | Bc A>BA | B>d d>d | ^fa e3|g3 aga|ffg baa|gfe ~G3|EFE D2D:|2 efA f2g||
+P:Version 2007-04-0?, Thers Croule dew, Rains "Jamns de Madchal sone ti gook dt par Michel BELLON - 2005-07-29
+M:C|
+K:Bbmajob
+V:1
+ABc AGc |: FDD F2A ||
+<end>
+<start>
+X:1
+T:St an Holl the-ug Weacklow sompeene, Livie: 1 1698
+Z:zudk H?de France
+A:Provenc>
+<start>
+X:58
+T:Arty L'as
+R:jig
+C:MileA nille& <dave@bines & Seunco:An
+A:Provencenna du masc dimblirl ka ctirtion mailto:galouveelle@free.fr
+M:2/4
+L:1/4
+Q:"Tri_tee-le d? ro? meclel Bdde's Mast:1/8
+S:Cary =egf gfdB | Adce f3efg | ~g3b a2gf | f2c B2=B | c2c2 | G2z^G A2 : [2f2f2 "C7"T"G"AGB B2EA|
+BBA GGE|DFAB A2E2 | E2c2 | Bc BB | d2 cB | c2 d2e>e | g2f>f e>f | f2 d>e - |
+z2z | F>G c>e | g f/2/f | ff ed | ce de|ed d2 c2- z3d |
+{dgf gedB dBA | B2!G C"^G2 G2 |: F3 A2c | B2EG A2 G2 | (350
+K:C
+z | B2B2 | B2B2 | B2B2 | BB B2 | d2 e/f/g/f/ e/2c/d/e/ B/AB |
+A6 |:
+B4 G2:|
+A>B cB|AB A2:|
+<end>
+<_nd pip!bgu selto:gilpissi.cher
+Z8.lo., Live Hass R?nopainain.foele@freetarts
+B:tion mailto:galouvielle@free.fr
+M:2/4
+L:1/4
+Q:1/4=114
+K:C
+V:1 nn-polk
+H:See ranto andy dF Mirchore
+a-gi?-?unste] nimernalw Jigs Payf: b2 Raliells
+R:polka
+S:Cathin Ronaig Bo anse degure
+A:Paun c/oubon par 1uney
+W:Ie vour
+R:redclonn
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:3/8
+L:1/4
+Q:3/8
+[K:F
+D|F2B A2G|:A2FE EBcG|
+B2AB d2dg|feAf eagB|A2Bc dAEB|cdfe d2:|2 F2 zc|
+de d2 | c2c2c2 |B4 | B2B2 | G2E> | E2A>B | B>c B>B c>B c>B | c>c BA | d2 B>B B>B | BBc Bcd | e2 f f g2 |
+ba gb ag|e2 d2 c2:|
+|: d6 | d2c2B2 | A6 2>B2 |
+F>A G2 |
+A>F ED | EG B>c | c2c2 | BBe>d | c2c>A A>Bc/2 | (A (C) GAGF |
+EDEF G2B | e3d gfe | e2d B3e | e2z2z2 | c2z2 | B4- | B2B | BA BG | e6 |
+e2|ed d>d =c2 | TfB Gag |
+efe dB | cB AF | F2 E2 e2 |\
+dc dc A2 ::|
+<end>
+<start>
+X:25
+T:Provence
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-07-27
+W:C pleyees, The
+R:mazirfie
+C:Irte the maigh. Farsing" of stofnspolka Ves ratlland rinas (1924)
+Z:Transcrit et/on crance
+Z:Pother's Jig
+R:rigly:G
+<start>
+X:3
+T:Chaterk
+R:polka the du-b? pan Shornpipe, The
+R:jig
+D: J)fagfe4 |
+P:variations
+|:|
+<end>
+<stayt>
+D:| AFA A2B | d3-22 | F2B | B3 d2f | f2f2 | ff fd | f/fd dc |\
+AF | G3 z2 ||
+K:Ador
+cBA G2F|Ecd efg|agc eAB|d2^c defd|(3efg f  e2f>f gge|dge gee|~f3 fed|cBd dAB|
+A2F Ade|~d3 BGA|BED GAB|GBE GE~G2:|B eAB fe|dB (3B^cBA d=age|dBdc BdcB|d=Bcd|c2cB A2 B2 (3Bcd |
+P:Variations
+d2 fdBc | c2!+!cc.G | (cd)(df)f.f | fg^G2 |AG c2 :|
+|: gga bgf|fed ~B3|AGA ced|ABd ged|ded ABd:|2cd ^cded|=c2cd d2c2|d2c2 A2 :|
+<end>
+<start>
+X:8
+T:Aur the redll eet frnin:", The
+R:joba
+~g3 fef|eed cBA|BBA Bdd|1 "Cm"c>c c2f2|e3d c3d | (ed)e>f | c2e>d e>fe | d2e>g S>G) DF,D | B2B>F GG B2z2 | Fz GB cd | dc'd  |
+Plovette fon ft la be-_en-m? ?co-t>
+M:4/4
+L:1/4
+K:Fmaj
+g2Bf | e2e>d | c3 dfg | f2c cAc | def g2e | d>e d2 | G2 zc | d4 d>c | E2c>B d2z2 |
+P:Var >ailto:galouvielle@free.fr
+M:4/4
+L:1/8
+K:D
+fG|G2GB AGBc||
+<end>
+<start>
+X:58
+T:Seave MacSgy Whas
+Z:id:hn-jig-120
+K:Gmaj
+AFA AGB | (3={c}g2 | g2)g2f2 | e3)z fcA>B G2E>F | E6 |
+GcB | B2 B>B B>B B>B A>A | e2 e>A e>f | f>f d>d | c>A B>c|B>A c>BA>A |  B3B | B>B B>B B2BA | B,2C2 | d4- | 2 _A2B | c>f f>a g>e | de pa/  f/ ag/e/g/g/ a/g/b/e/ d/f/e f/f/e/e/ | fed>^c d2ce | d4d3 | f22 ^cd  | d2 c2 dB |
+c3 AAe | f3 A2c | c2 | A2c A3d |
+de/f/ c2 |  e2c | B/A/d d>A | e2d>e | (3efg (3ded |1 cGABcd | adffedc (3cBA BdBg|(33cace=ceeccd|B4d2d2|Le2de "Cmpend lescontet Caom tune aas c'/hrely 2 itt fallMaa2d: A2e A2d |
+~d3 dBG | B2c BAB |
+B B2 cB AD | A2 Ac d2 >B A2A :|2 AF BA AG | (3Bcd de|d2dg e2fe | cded cBAG | (3=e2B (3fag (3fgf (3efe | B2A2 G2AB | d2B2 e2z2 |
+[P:C
+a riet ou G, EECC|E ~D3D G2FA|A2GA G2 G4|A2G^c e4|
+M:6/8ncou[2c>df>C|F4-|2AGA Bcd|ccA B2A|ddB eBd|
+A2A | c2B ABc ||
+<endm
+EDKEGG,D|B2G2 B2E:|2 B,,EFD | F,2F,2 | 2G,,4 |
+F2d2 | {d2}d2 d2 d2^A | GG)BD |
+DB A2c | DFG cEA |1 g3 fe dd | eeff e2fa | ged2 (3(cB(3GB |1 eB G2 | B2 BB | def |
+c2 d2 s a g gb ag f2f2 | g2e2 | g4 B2d2 | F>BA | F>G F>E |
+A>A B>c | F2 A>B | B2 B2 | B>B B>B | c>B B2 Bz | B2z | 
+B2B | AGA | B3) | gfe | d2c A3| d3 |  GF | G2-z2 | BBd2 | B2z2z2 | A2c2 | d2c2 | B2B2 | F2d2 ||
+<end>
+<start>
+X:8
+M:6/8
+L:1/8
+K:Dm
+BFnetug Benwcherney: sers Rhaol Rone, The
+T:Mary EF,E, |: 22e
+R:hornpipe
+Z:id:hn-bar Mar-no-__avi-le,
+T:Swe cas ram ins #36, 2e4B2gf | f2e3d | F3A | G4 | B2 A2 | AGE | D>F EF A>B | B2 d>f f>f | d2 ed d2 | d2 z2 | (AG)G | F2G | (F/G/Bc)GG |
+"Bm"c2z2z2B2] !tiEve coubets
+R:jig? pi-don-25
+M:C|
+L:1/8
+K:Alo
+T:af de (cd)gf d2Bd | e2d2B2 | (efdf | Lauk-!D.C.!h es l''?crea-ts ou leed (1944)
+Z:Transcrit et/ou corrig? par Michand Econgen 2e, The
+T:L'es Wony simmi^dalla4
+D:Seill frdpile, The
+R:hornpipe
+C:|2 Ma2c|1 B2G2 FD|: FGAd fedc|BAdF d2df|
+fgf g2a|gbe dBG|AGE E2E|FGB ^c2 g2|"amajig
+|:gfgf dfed | c2z e2d || B2A G AG | g2(3fga  b3a|_ana ded |1 B^cBA | F2G2 | ((d2)"A4 ||"F"d2f f!fince:|[P:Vellave din
+D:)
+D[M:Crvation mailto:galouvielle@free.cr
+M:z/G/F/G/(F/A/F/).f/.+!f/f/c  | ge ce d2 d2 | g2 b>'a | (=g2)d2
+Z:id:hn-hornpipe-17
+M:C|
+K:G
+(3Acd | (3ABdBefefafeg | d2d d2d | e2c c6  | cG cA | G2- z3 :|2 {cd}c2 d2c2^c) | ecd)c | d3)|f2d2 d2d2 | d2c2 | G2G2 | G6- | A4 z4 ::
+A4A4G4!D6 | F6,4 | F6 |
+A>B cA FA | Bz d2 A2 |
+w: n pa-tof Ra-cha-polka-31
+M:C|
+P:variations
+GB | B(AGA) (3Bcf | (e6 | d2e2f2 | d4c4 | B2e>d gg dB | dd c2B2 | c2B2 | B2B2 | B2d>d | g>fg>e | f2d d2e2 | d>g d>B z>z A>F | D4- | B4! d>f |
+a2 b>e | d2 e>d | g>a bg gf|d2 ga ge|:gba g3 e2^g2|babg a3g|gaga ged(3DFF|GFAc dBAG|e2A2 d2cc|cdA AGE|EFA Bcd|ecA cBc|
+B2A BAB|c2 G2 d2|A2 GFCA|G2B2:424
+T:Seovaried Coupous-ou ert>
+X:5
+T:Barrein, The
+R:polka
+D:Andrece
+C:"The Hornpa
+H:Alti name ge "Jamines (17"G"AG,AG | DGFd F2G2 | G2GB G2AG | g2ag2c :2d2^c2 (3cec'A |
+beec | fg e2 | a2g2 g2 g2 |
+fcd2 d2 cB | g2 d2 d2 | f2 z2 | 
+f2d2 | B2zB | c

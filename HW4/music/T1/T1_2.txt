@@ -1,0 +1,15 @@
+
+
+
+X:24
+T:Rocka set dew ting baische see devie
+K:C
+g2d e2d|e2A A2A|BcA B2c d2A | D2D DFA | ~A3 AFA|
+FDD DFA|cBc agf|g3a gbab|aba gfe|fee aaf|1 gec e2f:|2 G3E GFGF|2DFE E2F2|G2E2 GBdB|agab Bbaa|
+|:fedB (3Bcd eA ABcd|1 de (3fgf efec|dcAG FDC2:|
+|:G3ABd | A2G2A2A2 |
+B6 | c_ABG2 | ABcd | cABA | c2G2 ::
+V:4
+cA A>c|AG AG/(G/A/G/A/ F/D/ |
+EF F>D | E2G FED:|
+|:dave fge dBA:|

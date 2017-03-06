@@ -1,0 +1,13 @@
+<start>
+X:150
+N:69
+M:Ch
+R:marnplaalld maslang.
+Z:id:hornail
+O:France
+[M:8/4
+K:D
+~d3f ghze | fffe dfec|dcBA GFFA |
+BGBd gfd2:|2ed c2|eeed ge^fd|.e2^c2 =Bd^cc | d4c2 | d/F/A/G/ AB (3cBA | GBcd Bggg | (3dcB Bc af (3ega |
+e3 A2A|dBd cAG|GEF BGE|FAB AFD|EFG A2d|eAA D2:|
+<end>

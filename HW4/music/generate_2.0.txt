@@ -1,0 +1,411 @@
+rs, The
+T:Certlan (1670-1737)
+Z:id:hn-re
+d4 | z6/4/2A/2 G2 :|
+w:Thampso #1 2
+D:Detry Earney: dich
+R:Fins, #23 | gfe ege | B2c d2A | c2A ABc | BAG FAF DEA | BAB A2A | def gff |1 acag cdcB | dcA dcB |
+A2f G2A | B2G G2A | c2c cce |1 dcAc B=GA BAB | ~B2 cAB | cdd eBA |
+BA/ GF Ez | E2G d2D |
+~A2AB G3gd|eaga a2ge|1 ~f3 agf|fgf fed gfe |
+ba ba | b/b/a/g/ d/e/d|e/f/ e/d/d||
+<end> - A2|e2 e>c|dg gfg|a2f d2A|1 ded dcd | c'e afg fed |
+c2e ceA | G
+BAB E2D | G2E E2D | BDE DGB | G2B Bcd | ~B3 efe g3|gba b2e|fdA BcB|ABA GFd|E2D E2E|EGE D2F:|2 FGA B2A | BAF FBA |1 dAFA DAd | (d2 dG (3dde de|fed^c AABc|(A2A G2A GEG|Acc E2A|
+BBG c3|]
+(3BdA FG (3Bd^c|BABA =B2de|~f3d ac~g2||
+~g3f efed|1 (3cdd (3Dag (3dfa ge|dcBd (3dAB | GECEGF | G4 G2 | FGAF E3A | A(d>A)GABA | B6B |]
+<end>
+<start>
+X:22
+T:Maran Bu-ta of Patdons dabservaicof fanes afd ea | baga edAB | AcAG AA=AG |
+<end>
+<strrig?-
+a gf | eA A/e/c/B/|ec B=c/d/ c2|"C"G3 "D7"G3 G2G | "Em"E2A F2A|GBd e2d|1 ed a2f|
+ef/ f/b/a/f/ |
+a2 a2|: b/a/f/d/ e2|
+e/2f/2B/2=B/2B/2c/2 G/F/G/A/ |  A2 |]
+<end>
+<start>
+X:98
+T:Ewnoge Wie: The Fablery S'oon With tonce#m7
+A:Fasouis O'Keenapole
+M:3/4
+L:1/8
+K:G
+g>g|
+d2 (3ABc (3cBd|edcA ADD2:|
+|:(3dff fe dd|1 dAG A2D||
+<end>
+<start>
+X:4
+T:Lest Manden's
+W:Lamand the Moncor, #292
+D:Fate. J.cis.5
+<smar =10012704-"a d2B B2B|"C"Ez/G"G37 "D"G2FE "D7"de fde:|
+<end>
+<start>
+X:13
+T:La dite enger
+R:chavelleddd=A | B4 BAGBA |GAG FGAG | A2Ac |
+GFGF EGAF | c2cc d3d |
+(3efg ef |
+e2bg fgag |
+ce ABcd | g3e d4 | d2B2D2 | BcBG | Gc | BAG | E3 E3|
+DD~F2 BAed | d2g2 d^cd | BeAd cde |
+dc=Bd eagf e2fe|f2af gfed|AcAF ABcd:|
+<end>
+<start>
+X:24
+T:2on to du- et on thr Hgric m\'a  ci vu-lio the fiar ovens pa l'oblane
+D:Jag Oa gith ga Dis thi fies ars
+R:slide Hanfo
+W: Ai version of the moog, The
+T:Lassi #27
+Z:id:hn-slipjig-81
+M:2/4
+L:1/8
+K:G
+A2 A2 e|dB/^c/c | d2d |:
+2:Da ||
+c2dB AFDF |
+|:,2AB B2GB|ABcB AGFA|Decd d2ec|dcAB A2ce|1 ~f2f def||
+|:~a3 ba~g2|efga efag|agfe fed efg|eAB BAB|dBG DEG|FDG AGG|ABd eaf|eaf g2d|edc Bcd:|2eg|fed c=ef|f>g fe|fa g/|a/f/a/b/a/b/abbg|
+"C"esea|
+d2e3f edec | F2f2c2 | c4 c>f2> |
+64 | x3 G2A :|2 G2E E2F :|2 ABc d2B :|2 Ade d2B | BcG FEE |13FA BdB | (G2Bd) | d2>d2>d e>f p>>=B>B AB | c/d/e/ d/G/F/A/ | B>B Ec | BF | >e gffd | fdec d2fd |
+ecdB GAFG | G2E2 G2 :|
+<end>
+<start>
+X:1245
+T:Le wai dried S | G2B AGD | EED | A>A Bf | d2>d2 | "F"c2d2 | " m"zG/2c/2 | \
+L:1/8
+K:G
+d3 d2g|f2e fdf ecBc|A3A GE~D2||
+:6d3b a2gf|
+g2ba gbmaj
+|:B/B>B/Bc | c2 dc d3 | c2z F2A | B2_"G"d3B2A | G4 G2G||
+<end>
+<start>
+X:19
+T:Leiffle's Foold Woll Boulo p
+W:B.
+T:Dir tobcedthe
+Z:id:hn-hi-s
+C:ChoRearu Gilar Sbmnisther, The
+R:jig
+Z:it:hn-march--1
+M:6/8
+L:1/8
+Q:J.nion AdBc dBGA dedc||
+dBA (3dec (3cBA (3Bcd eF|
+T:(3eec dfe|~f3d edef|(3ged cB |1 A2G |G4F | A4A2 | A,2c2B2 ||
+<end>
+<start>
+X:83
+T:Showwasin't - whe versi? la Faurfel
+R:hocnny
+E:CGorgen Sfettanc Michel BEF, ^G2E2 | G2A2 :|2 c3e/>e/2||
+<end>
+<start>
+X:5
+T:BB, The
+R:aaro
+~f3f ~g3e|dcde dcAG|(3FED D2:|
+<end>
+<start>
+X:17
+T:Hantey and B fino pe lind Da gitinasherpland with fist Slimon Soufel Crois parts de Marche
+R:lon Rawier,8
+C:Terdel's row fel Eu loube thes, #512.
+Z:id:hn-mazurka-
+4:2
+B>f | B2dcBc | A2zz (B2d2 c2 2z | A4A2 | G4G2||
+B2>F2 | E>FA>D FF/E/|EB G/A/B/|BA B>A|BA G>A|BF B>B c>c|Bc cB|AG A>B:|2 A2A:|2 AG FAB||
+|: Bc | ffecd/e/d/c :|2 B3-3|GB FE|E>B A/g/2//d/e/d/c | !+!="cuvic of-tart>
+X:515
+T:Seely Homisarick Fou teinc aerche Moun Gave in the Moow, Toad fel orka
+y:2
+T:Lit ero=ga-to madite Le eerley ead:Maghe Hallaren|]
+D:]
+ABA|fed dcA:|
+<end>
+<start>
+X:1
+T:Ible der Kilkney Putter Anons blestoe, Bau-sed's Bc af | e2 ed ce | e2 ed cB |
+AG/A/F/)D/ |
+B2G2 A2G2 :|
+<end>
+<start>
+X:17
+T:Lave Rarbaut
+T:Liernpare
+G,CN ea|"T\
+GBd Bcd |1 ded dfd efb|abe d2e|fdB A2d|fdd dcA|1 A2be abca|| |y'a dan (1/4/ d - d2d:: (3cBc | eecBcd | ez2 dcB2 | c4c4B4d4444!d2ccA2||
+<end>
+<start>
+X:82
+T:Dawolans Fis priny
+Z:Transcrit et/ou corrig? pal Miquins and Similis mas dins Madc McAratt?] (FGF)B GF |1 A^F Gge | d2e d2e def | ~gab a ef agec | def3 f(gf | g2g2 g2ff | g2gf ge^cdf | efd dde | ege e2e |
+|:dBG Dag||2af edB|d2e dBB|def ~g3|
+gagf Bdeg|agdf ecAG|F2FE ~D3(EFD) | (163)|E2 EF E2|EGBE GAB^F|1 ABcA D2:|
+|:ABe dee |B3| =BBcd f2f2 |
+f6 d2dB |
+<end>
+<start>
+X:55
+T:Pas irien: Tredot
+W:(Michefl
+Z:id:hn-hf-14
+Z:Pour toute observation mailto:galoubed2c |1 AF3 A3-||
+P:Vartan-2
+<start>
+X:11 
+T:Ryckime Donte observation mailto:galouvealide
+T:N'a lestitis Fish reen Passife 1910gs Balliver Moui?e)
+Z:id:hn-bh-g2e -
+0:Mocherolan
+T:Gareness. Pouk an The Donny in Bdor fough The cif Sras
+R:caraation ~E3 E2B|cBA BAG | A2D FDC ||
+|: GAG | DEF AFE | f2e c2c | dcA GED :|2 FDD ABA | FDE BFE | D3G A2A | G2B GAG | FGA BAG | GGA G2c ||
+A2 FA A>G AG G2 |
+A2cB A4GF :|
+<end>
+<start>
+X:76
+T:Fire Ledy Tome Kiltorum
+O:France
+A:Provence|dfed eAdc|
+AD~A2 B2GA|GEEE D2BA:|
+degf e2dB|c2c2 e2B2|BccB cBde|ffed Bfed|edcA ABGA|(3egf ed|G
+dB cdef|ef (3efe fe|fedc AFAG|1 B2AG FED2:|
+|: E2E | AFD DFE |FDD g2A EFD:|2 AFD A2D|FAA AFD|DFA Bcd|edB c2A|B2f a2f e3dc|
+B2B3BcB|B2 (3cdc (3d^d|fee dBA|B2e fed|fdf edd|edA AGE|DFG A2A|1 GAG E2D :|
+|: fdd Bdg d2B:|2 geA G2B:|2 GEF E2D:|2 cAA DEF GFE:|
+<end>
+<start>
+X:186
+T:Caralaumee
+R:slice
+Z:id:hn-slte
+D:Jid Maergie
+Z:id:hn-nge-92
+M:6/8
+K:G
+AG BA|FA GA|B4: 2dc A2G||
+<end>
+<start>
+X:22
+T:Rock of the de -tes seathre d'la fid lade duc pron tu ve le lanco O'DaK:D
+D2 (3EFG E2:|2 G3 ~B2A|
+d2e e3|BAB BAB|cde fag|~g3 e2d|Bcd eAF|1 E2E D2C|:|2 def gfe|d2c d2B: | BABA A2fe |
+d2de | c4 z2 | B3A | dBcB :|
+|: Trant Mighel Bolley
+T:Leatiss"
+c:|2 EdB cAB | A3z egg | (g2be a2fg | e2ge dfe | fed cAA | d2A AGE :|2 e2d B2c :|2 cdd A2c |1 G3 G4G |
+BAc2 d4e | g4f2 | eAGAGB cBcB | (cGBG)(3 G/(G/G/)G//^G/A/G/) A2A|
+G2F A2B||
+<end>
+<start>
+X:2
+T:Les's Hormpiais
+W:
+Z:id:hn-reel-75
+M:C|E4A2|BA F4|
+=F2A f2g|afe d2B|B2A BFB||
+P:Var avercedn Chack of deentroh Rame
+R:carod]
+G4|]
+<end>
+<start>
+X:82
+T:Boy Goppirt, #6
+D:Dessice
+T:Dithy HillEwlinf Bancid, The
+T:Listher Tre Whist paster Hichie tait ana du-las l'agsuee Higne>
+<start>
+X: 22
+T:Caicha ab thos maite.fe erea? Lamy the cook of =00=10D E2DG|
+DDB,G, G,2D:|
+<end>
+<start>
+X:44
+T:Marghe
+S:Carnet du tab alecosse
+<end>
+<start>
+X:27
+T:2ansset doilid
+C:Conkel UCot
+W:I  Bue ver der owc carcdu-ce
+Z:Transcrit et chi-b3.
+. IVbluablan
+c:Paul Jig
+C:Mohric de/ eece gfe | fed cAA ||
+|:afd eAA | BGE D2F | GFE D2D: | ~E3 D2E :|2 eG G2 G2E2 |
+dBAB | A2A3 | A3A |
+E3 A3 G2 |
+AB A2 d^c |dB G2 a2||
+|:~f3 dfg|afe d2e|gff gfe|dcA ~B3|dBG A2f |
+(3ea^agf efed:|2 agag fed^c|dcAA a2:(3ecg|a2 e2:|
+<end>
+<start>
+X:18
+T:Danny Mo'ineslip "The
+R:ronal
+Z:il:M\'i Fagline Ball? part th! W:a/e/d/e/ dc | cA/BA | A2>B)Bc | d4- | c3dcA | G6 z2 | B/2F/2G/2F/2B/2 |
+d/2e/2d3/2 ed|"G"d"cBc"A313
+"G"d3-2d/|\
+f/d/e/d/ gf|"F"d(Babg |
+P:Variations:
+A2B cEB|EFE FED|EFD ABBA|G2GD D2:GA| AFA AFD | EDE A2g :|2 AcDE cAFA|
+GEED EBGB|d2e fed|edB dBc|1 de fd | fe A2 :|
+<G B>c d>B A>A AB | c1 ce/>f/2 c2 :|
+|:~f3 dgf |
+"G"dfez :|2 (3BAB | 
+c2 {A}GF (3ddf | babg gabg | AecA GFA | ~G3 BAB :|2 AGF G2g |
+d>c dcd Fdd|egd BAG|1 A2A BdG:|2 BcB A2c|:2A A2d |
+fed def gef | a2f d2e |
+dAG A2A |cAGB AFD||
+<end>
+<start>
+X: 20
+T:Duntlan(.Fis-nnon (1974- 8
+M:2/4
+L:1/4
+K:G
+V:1
+c2d2>c2 | A6 | A2d>e d>cB>G| (3G|DE,D, DG,D,D,2 | E2E2D2 | A,4A2|A2cABA|d2Bc B2AB|
+Q:3] (c3!+!cd/2A/2 | [P:5
+L:1/8
+K:Cmix
+cD D2:|
+|:GE EF|^cd ABc|1 B3A Pobstoin Zdidches ank p?re d/8
+T:bou dop na. Jig, The
+R:slip jig
+H:The Rofdan Mice oig Tommmaishe nomp ?t
+BcB |1 B2 BA GA | Bg/2 BA G2 |
+G3 A/c/A/A/ |
+BA c/B/c | {=B}.d2.E2 A/F/G/B/ BG A2 ||
+P:D
+ed|ccAG FEFE|DF (3EFA GABd|
+(3fed ag af | e2 a2 g2 |
+ecAA |
+d2d^c d2ed |
+(3gea bgab|afed e2de|g2ab afeg|
+edec ABce|deff e2bc||
+|:~f3d eage|d^cdef : (185)][ded=c/2=c3/c/B/ A2:|
+|:e3d afe|ddc dAF|G=BG cBcA|~G3E ~D3F | Bd~A2 DABc||
+|:ddd cBA|1 AGA G2A:|2 EGEG dBG||
+|:~e3 faf|gfe d=B|
+B2G AGA B2z :|
+<end>
+<start>
+X: 24
+T:Galond Po VariA Fooke
+T:Lei douc M?crolle fiaclane
+Z:id:hn-slipjig-5
+M:C|
+K:G
+e3|e2d g2g|g2e dcA|Bce f2d|eff edB|dBG ABG FED:|2 ^FG-A2 c2 B2) | A2z2 |]
+<end>
+<start>
+X:16
+T:Temp #96, #24, #92 Moww
+N Youndocencos
+C:Trad.
+R:Mazurka
+R:caraerobservation mailto:galouvielle@free.fr
+M:8
+L:1/8
+K:G
+A>A|Bd dd|F2 A>A|A2|1 F3 (3Agf |
+agfa gece||
+<end>
+<start>
+X:1
+T:Travie Brione, The
+R:polka
+D:Arele
+Z:Transcrit et/ou corrig? par Michel BF Vess Wou-sog, The
+R:polka
+D:Jack Ser doher san (1678-1988)
+A:Provin
+g:Paur Mollor, The
+R:polka
+Z:id:hn-march-12
+B:L?ne version 2an
+Z:id:hn-pa-t>
+X:42
+T:Chain The HogW ore, Grig main a rf/an miblin to bon Bu boivire
+O:France
+A:Provence
+C:Trad.
+A:Brance
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-14-06
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:G
+GF GF/E/|1GDE :D2E D2:|
+|:"Dm"d2d Bga | fgd eBA |
+(A(FG)A (3B/)A/2E/2A/2 Ad |1/2/2z/2)z :|2 d>dG>G | A2d>e d>e e>d c>B | A>B BA | BA ^c/d/ | f>e dc|B2 | E2 G>c | Ez "z-"GzA2 |
+BG2 B2 | B2 Ad e>d | cd/B/ AG | de cA/G/ | D/G/G/A/ B/c/B/ F/F/E/E/ |
+Z:id:hn-seana
+R:Valse
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-04
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:C
+L:1/8
+K:Dmix
+FA|(3cAF GF (3Dz2:|
+|:gdB cBA|Bdd dBA AGB|d~A2 AC'a|: Gc3G3g:|
+<end>
+<start>
+X:29
+T:Mickies CowI Dimon-2
+Z:Transcrit At/ou corrig? par Michel BELLON - 2005-03-03
+Z:Pour toute observeto
+_edec | e4dc B4d2 | e>d_cA | ecdc cAB | def efe |1 fed edc : 
+|: dad dce fef  fde | a2a g2e efg | fgf dGB | BAA BGB | fgf dBA | "DDG GAB ||
+|:cBA Acd|BcG AGA|GBd gag|efe def|
+<end}
+<dgat :|
+<end>
+<start>
+X:133
+T:Haree DEFmary Char.
+Z:id:hn-slide-2a
+M:6/4
+L:1/8
+K:A
+G2 A2B2 | c2 F2 :|
+<end>
+<start>
+X:4
+T:Fuvich G, #733 a de sai #36
+D:Franco
+C:J.c BG AF/d/ | c/d/c/ d/c/d/e/ |
+eedc B4 :|
+V:2
+c2Ac fefd | B3B AG | F4 B2 :|
+V:2
+e2e2 | B2A2 |
+C2z2 | c4 :(A/f/ d/B/c/c/ | .de/2c/2 (5), #13
+Z:id:hn-hf-10
+M:6/8
+L:1/8
+K:D
+df cA|: A2 A=ee|1 d2gf g2ab|afe d2e|f2ff gfed|dBAG ABcd|eege df==ecd:@branloug not Cross
+R:Valse
+Z:id:hn-retle
+H:Thely Comedrespa
+S:Terckwold Eermo the Brom d'an pat barol Polka
+R:carolan cork's names Bdorthy Gatimbye.
+R:polka
+H:Segon's
+C:Trad.
+R:Marche
+C:Maurice M\'ambersle nain
+Z:id:hn-polka-26
+M:A/ E2D2|(3AG^GA =BAG

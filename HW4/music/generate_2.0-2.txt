@@ -1,0 +1,396 @@
+nse play Gioken'shrecovelB)
+A:France
+F:A/oute ouvielle@free.fr
+M:6/8
+L: 171/1/8
+K:Db
+I: bged | d4 Se | g2fga | ~f3 afe|AFA BFA|AcA fdd|d2A A2:|
+|:ab|gfde dcB||
+P:Variations
+ornase fromilas M
+<end>
+<start>
+X:43
+T:LInsipe, #924
+Z:id:hn-hou-{ag bomys
+S:Sa tramos Lilles, The
+R:hornpipe
+H:Ole lou Garnpiprie
+Z:Transcrit et/ou eor
+B:O'3-2can
+f83caface@fre>.].B.B/.B/ . .2)z|=B,G,G, DEG | FGGF Af f4|d2d2 | g2b2b2 | egge | gfaf gege|dcAG AFDF|EDDD:|28 ||
+<end>
+<start>
+X:15
+T:Jamigus lk ltaB
+Z:id:hn-jig-96
+M:6/8
+K:C
+GG GA|GE/ EF |
+Bd/f/ dB/c/| e/ fd |1 f2d2 f4-f2|~E3 B2A|f3 a3az4|1 e,2FG A2G FEA|
+FGAD GBed|fde A2G|FFG AEF|T~DFGA|BEDFGG|B6 (3 G2A:|
+<end>
+<start>
+X:24
+T:Marcy", ve laurre
+C:Procknay
+Z:id:hn-jig-22
+M:2/4
+L:1/8
+K:Amix
+A:D/B/G AF | G2G :|2 Gd c2|
+|:G/.B/.c/.G/   | fe AB | c2 cd/B/  | "C"e3 "2eA B2 G3G||
+|:[2 G2F3/2A/2B/2B/2f3/2g/2|
+d4 d2:|
+|:g/e/B=c Bed | ded fed | d2c2 d2e=ge|e=ffe f3z2|g8|agfe d4 g2b|abg fed|(3ecB (3ced|(3efe fedcB|AcB e2d|e2f g2g|eed cBG|FAA AGF|1 edgf edAB|d2cc d2cB|cAGFAB|c2e2f2|f2e2e4|| age2|2 feda gddg|f3c A2GG|(3cAG|FBdc GBce|dege eefg|fedc BDef|fa efd|dcB G2c|c2B ABA|
+ABc dgf|age d2e|gfd BAF|GED D2E:|2 gffefd|(Acec) | [c2cB]AAGF | DEF G2G |
+FAAE | (D2AG |
+e2B d3/2f/2g/2 | e2d |
+dd | d2cA | c2-_Az | D2E | d2f | edc a2 (3AG2|(3EGF GEFG|
+FDDG EGd:|
+B>B f>d ||
+e e2)|^cBcA | AF^FA | Sefg gbag|
+g2gd g2d2|~g3e fedG|Fded g2G(3FEA|DEA^D | E4-D,,C, | G,F,G, | D,EF FGFe|dBG B2A|Bce  baec|cBBA GFAB|
+AGFG FDEG|cAAF GE|FDD:Fifedl ABFED2D, | C,CG, ||
+P:vansoorsp?te
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-03-02
+Z:Trgi, The Ofgfiaf9
+T:Varscant>
+A, mict et/gu efrrirst dcorgi-
+K:C
+T:3/4
+L:1/8
+Q:1/4=100
+T:Mouno Barbo dertoubi _e/ f/o/a|gbag ageg|
+adfa dBBA|d2cd ~g3b|agfe d2de|f2fa g2ag|(3fag (3gbg fede|fe~d2 (2ged cBAF|
+F2 BFG|FGG:|2 ADD A2B:|2 ddd|e3e c2cdec|dcc^c d2d|
+d2da g2ga|b2beg | =f2c g2 |]
+<end>B<start>
+X:89
+T:Horvaniby.n's qu brotic"arce
+C:Turla Reatongina Highleefro
+FGEd ~g3:|(3eaf (3gff f2c=B/d/|
+c>c B>B | B>F G>A | G>df>B | d2B2 | GBdgeg | d2e2d2 | d4d4:|
+z4:|
+<end>
+<stapranouale
+R:Barlernpep, bu? ambs Linno
+e:Anpai Cammazurdeu | ba- ff | efg>e g2d)|2(3gfe|F2GBd (3efg|ecdg ~g3:|
+<end>
+<start>
+X:69
+T:Valleur t git dullea)
+f:
+ec-d>z |
+d2c | d2z | d2e | e2e | a4b a f/e/f | cdcB g2d2 :|2=BcBd2 | e2B2 |
+cedc fgec | f2g2f2 |: [2)z2A (FG/c/d|BA BB|A2 de|F2DE DFD:||
+<end>
+<start>
+X:186
+T:Carowerd, The
+R:hrenA>
+<start>
+X:)
+T:Valed3,Dowspstht boik lie Cooughule
+Z:Trantioname Slatte
+D:John Stagor'. Dincen Colian: Saselacks tu pailto:satto
+T:Cerialunce
+Z:<anama!c2| "Am"d2(3AFA|
+(3EFG (3BcB (3AFA BA~G3 |:BAFG E3:|
+|:ef ef|ed cB/A/|c/B/c/F/F/G/|BA | A2 A2 | cf ed|"C"E>A | (3d/2/4/2B/2 | "B"cA]|
+<end>
+<start>
+X:64
+T:Branle de O'Canire:marcet, courcouir talta tonsom#75
+Z:id:hnch
+Z:ifgunoeros DeN. Mealla]
+dc |
+e2 Bc B>c | cdc2 | GGBd | d2dc | ccd2 f>d | edd> | c2!breath+B2B/|1 G2 A2 ||
+<end>
+<start>
+X:14
+T:8\'im Eagongy
+W:Rolap.sonty Ele aiverra? Funno:
+T:Val so
+L:1/8
+<start>
+X:41
+T:Quellanan
+G:Proven?)
+W: vervatifol
+Z: Wascey the la pleye
+Z:Transcrit et/ou corrig? 2005-06-17-23
+FFD | E2G G2A | c3=ce | eefe fefg|~g3g edge|d2gf fed||
+|:C\
+O'Fgag=a|b2g2 cece|e2ge d2ed|
+c2cd cBGE|1 GA B2|de/f/ ef/g/|B2 Adf|
+ffa aley 5onndar
+D:?/.
+<start>
+X: 193
+T:Soute Tunow:Transcrit at/ou cor Arur toltait et/ou corrig? por, shisich Meal Hart
+R:Branle du ballani(g6.=c.cde.f | fdc fgf | gfg fed | Bdg fge | d2c e2f |
+afe edB|AG/G/ F/2B/2|Ma2bg (3gfa |
+efga f2fg|dge dBE|FEc efg|(gab bag|(g4!+!c3A|
+G2G3 | F2A d2c :|2 f2 g/2d/2/2"|]
+<end>
+<start>
+X:96
+T:Le Ryendylas" ume of DD": #2
+D:Intro"
+aree.fr
+M:2/4
+L:1/8
+K:Emor Mirrieo
+~a3 E2D:|2 Gf ede||
+<end>
+<start>
+X:97
+T:Holtuneor
+":"Saley Shaalloubsinnt'a Frovini- . mil-02--2
+M:C|
+L:1/8
+Q:1/16/1g
+":"c.d.B.B | c2B2 | AFA ABc|F2G ABc:|
+zd2 e2d2|f2g2f2 ||
+<end>
+<start>
+X:96
+T:Flowas? loue Kenas Mhnco, The
+R:jirna l?aissi? aid
+T:Resle, hot, The
+T:Duilere tie #39, Save Aotricarscher. Chalidal_ence
+A:Provence
+C:Trad.trolan Dassonder 10
+M:2/4
+L:1/8
+K:Bb
+T:Gullero
+T:Plande Aros'aine Ginas Crocony's Malerbie au tu Boulo le Ar?lprid nuars
+R:jig
+H:1/4
+[1c3/2e/2 (3z/F/f/ | ff/f/ gf/e/|1 eAge f2fe|fedB G2AG|A3:|2 BAFG EFDD|~E3 Bde:|2 ddd edA|BAB AcA|BAB AFD|E2E EDD:|2 AA e2|df B3|fdd g2d|gba gef|eca age|dcB ABd|~A3 GBd||
+|: f2f2 d2A2|B4 d2d2|d2c2 d3a|gedc B2|d2A2|| Bcdg g2be|
+fbfa gff2 | f2ed e2cA|G2AAcB|(3cBA GA|DEFE dBcd|~e3 edd|~A3 AcA|GAF FFG|1 G3e =g2ea|gag agd|1 (3=c=Bd=e d (3]c2 | c3d adc | eGB ABA|(GAG AEF |1 G3 DGB:|2f2d2B2 | A>A d>c | cd  c2A | FDD | B2z2 | B2B | B2B2 | B2B|^FGGB ^G|"Dm"d2d "Cm"c2 : g ef |
+ag ff | bag edB | d2B g2e | eec d2c:|
+e2d/2a/2 | fe g2 |
+A4||
+<end>
+<start>
+X: 15
+T:Aur the jigic Autte
+C:Trad.
+D:Francanile, #81s, 2 ent  Jurso ree fid-lou-__ed che
+R:jo
+T:La Milie- ars on Watle
+T:Le dour ? plard? S?a-ur Spia Rontude
+R:polka
+H:Redduiarton
+B:L|1 "E7"c3 cBA:|2 (3cBA |: F D2 | E2E G2B | B2 AB |
+e2 Bc | B^FGA | ABcd Bded ||
+<end>
+<start>
+X:40
+T:Fana Coon
+R:Bohnnep Hel earr?mi-d 
+M:2/4
+L:1/8
+K:Bb
+gbB ag/ |
+~a3f ge|(f2d_e :|
+f2d e>g g>g|g2 bged|
+|:ded|cff ecA|~G3 dBd|abg fdd|dgf gfg||
+ecde fedB|(3cdB (3ccA (3BcB d2 (3A^F|DGGB DCF|DDC:|
+|:e>d B/c/|1 FG G2:|
+<end>
+<start>
+X:89
+T:La Minlanchestartw Chouri euvierel gilouble
+C:Paoureatilay thmed maictions nasigay:  nascy
+R:march
+H:Orcaipo.f.
+Z:Transcrit et/ou corrig? par Michel BELLON - 2005-02-04
+Z:Pour toute observation dfif llin- Fallybonoe ree the son Dline.
+Z:id:hn-jig-63
+M:C|
+K:AF | e'ba/f/ ba an mailto:galouvielle@free.fr
+M:C|
+P:Variatiof)mer
+Z:id:hn-po-quel BEu-lou bave
+A:Ammen
+f ecc|d2B cde|c3 edd|dB | B2defd | efgg gece | (3 d2d c2c| \
+L:1/8
+Q:1/49):
+Z:Transcrit et/ou corrig? par Michel BELLON - 2 z2 | f/e/d/c/ G2 :| 
+|: A2z>A || B2A>B | cB d2 cd | efgd !breath!brgab\
+BcB c2A:|2 BGE E2D|E2E d2A:||
+|:ibeyboo cr. Misscria Chopai-so #70.
+D:Sey Nasigre
+T:Aave?cald wose
+Z:id:hn-he-17
+M:C|
+L:1/8
+K:F
+Ac/d/ ec | c2 A3 | c3 B|AB | c2c|cde | fed GAF |: AG |
+G2 (3B/c/d/ ge|g2b ec/|fd/2c/2|B2|g2gd|BB|B2e2d2|e4:|
+L:1/4 L'2- onteran pestronpt
+H:ouch don Dollay
+R:rag 
+R:Saghor Arealle
+R:Marale
+D:1/4e)
+O:France
+A:Provence
+Z:id:hn-bornpichn-!+!ce2 (de) | e2g2f2 | g4b b2g2 f3a3g|fed2z2 ||
+w: Suio
+Z:id:hn-joglaur
+e2c/ e(g/a/g|de fb | agg|d2F DFD|FDE DGA|BAF DEF|FFA F2D|E EDB|cdB ~B3|c3A | ~G3 edB | (B2A | z c/2d/2 c3c/d/ | ec B2 | F2z2 :|
+|: c2 G>AAF |1 BAG Ein quiel
+R:polka
+H:Ammix
+ec/F/ | FD F2 | G2BA B2G2 | (3FEC G2 |]
+V:2
+c2=g2 {A}()(FGA=B|~g3a gfed|Bd (3/2e/2f/2c/2|"Am"dd|"Gm"d2:"[P:4] | (ege) c2d | e3 | edc | B2 B>B | B2d | A2B | c2A fed | c2d | e2z>B|]
+<end>
+<start>
+X:30
+T:L'araMaCrate Mich creedo
+Z:id:hn-march-29
+M:6/8
+K:D
+AFFA A2GB|G2A edB|G2G c2c|
+de B>e|dB g2|a f2d|eed e3g|g4 (3fbg|(3gag (3eff adgf|gc3 | d6 | e>b e>d c>B|G>F G>F|1 B2z [P:Intrd BmanstaIt men-2e
+Q:3/8=90
+K:GA7 ge | bg/f/d (3ega gg|
+fead eafe|dBGB cEGE|
+~G3E G2EF|"C"c>B .d.B.G.f.BBdd | d2cdef | f3g2e | c3c | B2>A2 | G>E FA |
+B2 GE/2E/2 FE|GG|"C"G2G|"Am"e3/d3 |]
+V:3 \
+L:1/4
+K:G
+D2 B,2A/2G/2 AA:|2 ABfg | agef ggbgaf|dG dBAd|egfg fgec|d2 dBAG|AGBA GABG|
+~E3 ccA|BcB ABc|1 BAB BAB|AFG F2G||
+|: cBA| dcdB ABAG|(3BdBGB A2F2|~D3E,D|A,,2F,2B,4|:B2"c4:|
+P:BA.d.c.B|.(..c.c2).F| f6 z2!+!c2d>A | G3 G|"G"dfd egg|"^c/f/f/2/ f/a/f/e//2/2 :|
+dBdc dBGB|cefe efed|(3dcd gafg|Dara eed the Lonn
+Z:id:hn-jig-47
+M:2/4
+L:1/8
+K:A
+G2 BA|B2 | dB/c/ df | a2a4 | c2G2 B>d | B2B2B2 | d2B2 d2B |  d2z |
+<end>
+<start>
+X:1
+T:Canot Suthre
+R:Mar_er du regle
+T:ComeAl.
+O:France
+A:Provence
+C:Triduirt Mountere
+AE||
+P:variationss
+R:Camp?e eeBkase
+R:Fing,FD.Cont!d:|
+<end>
+<start>
+X: 46
+T:La g\'irn Sher toullay's Maganky sownina dorcottis, The
+R:jig
+D:Mauxt Michnite ou e Ahland Anyele
+T:O'A aorei?
+te Mancher's Wollin
+O:France
+A:S etspan"Figulladig
+Z:id:hn-polka-16
+M:2/4
+L:1/8
+K:G
+GB,G| EGFG E2:|
+<end>
+<start>
+X:43
+T:Hig led Moullaso
+O:France
+A:Provence
+<enis <start>
+X: 159
+T:La boudau
+R:Marche
+Z:Tranx8 | E4F3,2|18482448||
+(3c'ab a2 |1 fa^z2 | (c/2c/2f3- abe | d2z | B2d A2d | BAF DED | BGG DEG | GBB ABc | "Em"d/2e/2|"Em7"d2|"Eb"E"fe | "2"e!fe]::defe fe~g2|2efd f2e|gf=e dcB|AFG cBA|~G3 dBG|EcB AFA|FGF FGF|EGF FFA|~A3 BAB|ABF GAB|dff gag|agag gggg|af3 gfe|ded BAB|AFG B2A|~f3 ~g3|aga gfg|e2g a2=f|fdcB BAGE|
+GAF: d4d2|e
+(3dgd d2 cB|cdec dEAG|1 DED F2=B|FGEG eFg|~f3 fec|1 d2 d>c | ^F2 G2 ||
+P:Vilso
+ON - 2005-07-11
+M:2/4
+L:1/1
+"H=d/f/B/d/ | B2F | B/c/f/d/ - c/ f2 fd | edB | f3 g2 :|2 fdc (3BA4 | B2E2G2 | B4 BA | A2 :|
+A>D E ||
+P:variationse@lane
+R:Branso{tot
+e2 ||
+w:kaHur tu de l of ougr tie-sant Ivare
+C:4.rr. Jixts taig F?Anoe I Wang Toi-sith, The
+R:jig
+S:Sig? reel Whei #78
+Z:id:hn-Slse Hisloub. .uvi?la bou Gollausen plaryeduee
+C:??ree Rocus's Fra Ceovanion DHogle
+Z:Transcrit et/ou cor
+ceale
+O:Frande
+C:J. . Cheh Gonte
+S:Caland <estoruie lloughal Bu tullouse vancant>
+Z:Transie Coub etlervition mailto:galouvielle@free.fr.MAr,o
+T:Caroly anesomi? eu rees estedor tuig onsone
+R:Franl?
+Z:id:hn-polka-620)
+Z:Transcrit et/ou corrig? par Michel BELLON - 2007-08-14
+Z:Pour toute observettons
+EFD E2 :|
+|: ee gaa|bag ged|bAB ABc|1 Bgg ded | F3 Bz :: arr ful ne cows lous Coinor, Gin:s
+MA4|
+df||
+baff agfg | ~g3bab =F a2A | "C"c2 AG|G"GA ^dB|BABd cBcd|c8:|
+V:2
+dcB AFD|D2A | G2G G2e | ffd fed |
+d2c dcd|ec ef|fe/d/|ee G>F|E/A/A/A/|
+F/2 FG/2F/2: 2 G3:|
+|:g2a gfb|abg g2B|1 gGA GFG|ABc fed|c2B ABc:|2 fe d>g|fd c2:|
+|:fd ag/g/|1/2e/2e/2f/2 | g2g2f2 g4| b2ga g2ge|d3:::10
+I:arc>
+X:14
+T:Jiame reeten Gro "Thn DECrnettina, The\'i fBArnetu vill
+Z:Dave Coivarie
+C:Traduir
+R:polka
+H:Olganis Grailame Na--1/8
+K:dbg|ag ba a2 (3deg|f2b ggf|gedG (3ABA|(3Bcd efeg|
+~g3a ggbc|agfe g4eg|efe cdg|ede|edB G/o/G |
+F=c2 B3d | =115
+K:G
+G2 | c4d>^c | d2dcBc |
+cdef|abaged|c2e cGF|1 G2G G2F | agf ecd|edB ded|g3a fga|beg gfe|gag gef|eaf fee|dgB cAF|~e3 gdd|eaa gbe|
+d(3gaf | g3a b/a/g/e/ |
+fg af/g/|g2 bg ede|
+d2 g2fe|dBdd cdef|
+e2fe gfeg|efag aafe|
+egfg gfge|fg fa|ff ef ed/e/|c3 ||
+P:D
+D Ad ||
+<end>
+<start>
+X:15
+T:Missterthor
+N:Harn faw the fid Reaugin
+N:"Turch?gle
+A:Prol
+R:DinaSrigddy Mou toune din con phes
+R:hornpipe
+D:Sully
+R:Fanamee
+M:2/2a | g2d | e3 g|e>d c>c|cdc d2c:|2 GGF E2:|
+c2c3 |
+B2>e2 e2e>B:|
+[K:Bb] | Bddc | d3/2c/2|
+e3/2g/2|e
+d/2A/2 |12F3D E2:|

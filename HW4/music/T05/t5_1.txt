@@ -1,0 +1,15 @@
+
+
+
+<start>
+X:33
+T:Farcain
+Z:id:hn-reel-78
+M:2/4
+Q:1/4=120
+M:2/4
+L:1/8
+K:D
+DFG EDC|cAGA d2ab||
+fagf a2fd|~A3c d2cB|cdBA G2AB|1 ABcA GFEF|d2gf edAG|AFGB AGAB|c2 (3B^cde^fgg|abag d2 (3dc-|d2d :|
+<end>

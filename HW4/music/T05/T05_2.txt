@@ -1,0 +1,13 @@
+
+
+<start>
+X:V3
+T:Cailley als's Twon's ha di Drimn Fros is downy: The Nipele the Mithee a Bouscd jo- 1 -22
+M:2/4
+L:1/8
+K:A
+D2 (3fec d2 (3cAG E2 :|2 EGAG EGGF | E2G2 BAAF |
+B,EG,2 D,ED|D2DE DE:|
+|:BE/F/A/B/|(BAd) ed^c|(c>e 2feg|dBAF|d2ea f BcdB|A6 (3c2c a2bB||
+<end>
+
